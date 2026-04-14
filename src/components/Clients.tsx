@@ -25,7 +25,7 @@ interface Client {
 }
 
 const TIER_CONFIG: Record<string, { label: string; color: string; icon: any }> = {
-  tier1_training: { label: 'Training', color: 'bg-blue-100 text-blue-700', icon: Star },
+  tier1_training: { label: 'Training', color: 'bg-green-100 text-green-700', icon: Star },
   tier2_consulting: { label: 'Consulting', color: 'bg-purple-100 text-purple-700', icon: Crown },
   tier3_white_glove: { label: 'White Glove BD', color: 'bg-amber-100 text-amber-700', icon: ShieldCheck },
   shop_tools: { label: 'Shop Tools', color: 'bg-green-100 text-green-700', icon: DollarSign },
@@ -173,7 +173,7 @@ function SummaryCard({ label, value, color }: { label: string; value: number; co
     emerald: 'bg-emerald-50 text-emerald-700 border-emerald-200',
     red: 'bg-red-50 text-red-700 border-red-200',
     orange: 'bg-orange-50 text-orange-700 border-orange-200',
-    blue: 'bg-blue-50 text-blue-700 border-blue-200',
+    blue: 'bg-green-50 text-green-700 border-green-200',
     purple: 'bg-purple-50 text-purple-700 border-purple-200',
   }
   return (

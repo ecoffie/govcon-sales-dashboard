@@ -318,7 +318,7 @@ export default function Revenue() {
                           <div key={i} className={`flex items-center gap-2 text-xs px-2 py-1.5 rounded ${m.status === 'past_due' ? 'bg-amber-50 border border-amber-200' : 'bg-gray-50'}`}>
                             <span className={`w-1.5 h-1.5 rounded-full ${m.status === 'active' ? 'bg-green-500' : 'bg-amber-500'}`} />
                             <span className="font-medium truncate">{m.name || m.email || 'Unknown'}</span>
-                            {m.client_match && <span className="text-[10px] bg-blue-100 text-blue-700 px-1 rounded">CLIENT</span>}
+                            {m.client_match && <span className="text-[10px] bg-green-100 text-green-700 px-1 rounded">CLIENT</span>}
                           </div>
                         ))}
                       </div>
@@ -372,7 +372,7 @@ export default function Revenue() {
                   <td className="py-2 text-xs text-gray-600 max-w-[200px] truncate">{tx.description || 'Payment'}</td>
                   <td className="py-2">
                     {tx.client_match ? (
-                      <span className={`text-[10px] px-1.5 py-0.5 rounded ${tx.client_match.type === 'client' ? 'bg-blue-100 text-blue-700' : 'bg-gray-100 text-gray-600'}`}>
+                      <span className={`text-[10px] px-1.5 py-0.5 rounded ${tx.client_match.type === 'client' ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-600'}`}>
                         {tx.client_match.type === 'client' ? `CLIENT` : `LEAD - ${tx.client_match.score}`}
                       </span>
                     ) : <span className="text-[10px] text-gray-300">No match</span>}
@@ -458,7 +458,7 @@ export default function Revenue() {
                               <button
                                 onClick={() => upgradeLead(item.lead.id)}
                                 disabled={upgrading.includes(item.lead.id)}
-                                className="text-[10px] bg-blue-600 text-white px-2 py-0.5 rounded hover:bg-blue-700 disabled:opacity-50"
+                                className="text-[10px] bg-green-600 text-white px-2 py-0.5 rounded hover:bg-green-700 disabled:opacity-50"
                               >
                                 {upgrading.includes(item.lead.id) ? '...' : 'Make Client'}
                               </button>
@@ -579,7 +579,7 @@ export default function Revenue() {
                           </td>
                           <td className="py-2">
                             {c.client_match ? (
-                              <span className={`text-xs px-1.5 py-0.5 rounded ${c.client_match.type === 'client' ? 'bg-blue-100 text-blue-700' : 'bg-gray-100 text-gray-600'}`}>
+                              <span className={`text-xs px-1.5 py-0.5 rounded ${c.client_match.type === 'client' ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-600'}`}>
                                 {c.client_match.type === 'client' ? `Client - ${c.client_match.tier || 'N/A'}` : 'Lead'}
                               </span>
                             ) : <span className="text-xs text-gray-400">No match</span>}
@@ -603,7 +603,7 @@ export default function Revenue() {
 function MetricCard({ icon: Icon, label, value, color, sub }: { icon: any; label: string; value: string; color: string; sub?: React.ReactNode }) {
   const colors: Record<string, string> = {
     green: 'bg-green-100 text-green-600',
-    blue: 'bg-blue-100 text-blue-600',
+    blue: 'bg-green-100 text-green-600',
     purple: 'bg-purple-100 text-purple-600',
     amber: 'bg-amber-100 text-amber-600',
     slate: 'bg-slate-100 text-slate-600',

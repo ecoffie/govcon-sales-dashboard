@@ -11,12 +11,12 @@ interface AgentEvent {
 }
 
 const AGENT_COLORS: Record<string, string> = {
-  'gc-lead-intake': 'bg-blue-100 text-blue-700',
+  'gc-lead-intake': 'bg-green-100 text-green-700',
   'gc-email-responder': 'bg-purple-100 text-purple-700',
   'gc-appointment-setter': 'bg-green-100 text-green-700',
   'gc-post-call': 'bg-amber-100 text-amber-700',
   'gc-crm-morning': 'bg-cyan-100 text-cyan-700',
-  'gc-crm-evening': 'bg-indigo-100 text-indigo-700',
+  'gc-crm-evening': 'bg-green-100 text-green-700',
   'gc-qa-health': 'bg-rose-100 text-rose-700',
 }
 

@@ -21,8 +21,8 @@ type SortKey = keyof Lead
 type SortDir = 'asc' | 'desc'
 
 const STATUS_COLORS: Record<string, string> = {
-  new: 'bg-blue-100 text-blue-700',
-  first_touch_drafted: 'bg-blue-50 text-blue-600',
+  new: 'bg-green-100 text-green-700',
+  first_touch_drafted: 'bg-green-50 text-green-600',
   meeting_interest: 'bg-amber-100 text-amber-700',
   booked: 'bg-green-100 text-green-700',
   call_completed: 'bg-green-200 text-green-800',

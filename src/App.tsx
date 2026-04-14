@@ -37,7 +37,7 @@ export default function App() {
                 className={({ isActive }) =>
                   `flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
                     isActive
-                      ? 'bg-brand-700 text-white'
+                      ? 'bg-green-600/20 text-green-400 border-l-2 border-green-500'
                       : 'text-brand-300 hover:bg-brand-800 hover:text-white'
                   }`
                 }

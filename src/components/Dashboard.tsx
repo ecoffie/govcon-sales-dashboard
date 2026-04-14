@@ -24,8 +24,8 @@ const TIER_LABELS: Record<string, string> = {
   unknown: 'Unknown',
 }
 const TIER_COLORS: Record<string, string> = {
-  tier1_training: '#3b82f6',
-  tier2_consulting: '#8b5cf6',
+  tier1_training: '#22c55e',
+  tier2_consulting: '#22c55e',
   tier3_white_glove: '#f59e0b',
   shop_tools: '#10b981',
   unknown: '#6b7280',
@@ -141,7 +141,7 @@ export default function Dashboard() {
                 <XAxis type="number" />
                 <YAxis type="category" dataKey="name" tick={{ fontSize: 12 }} width={80} />
                 <Tooltip />
-                <Bar dataKey="value" fill="#3b82f6" radius={[0, 4, 4, 0]} />
+                <Bar dataKey="value" fill="#22c55e" radius={[0, 4, 4, 0]} />
               </BarChart>
             </ResponsiveContainer>
           ) : (
@@ -340,7 +340,7 @@ function fmt(n: number) {
 
 function MetricCard({ icon: Icon, label, value, color }: { icon: any; label: string; value: number; color: string }) {
   const colors: Record<string, string> = {
-    blue: 'bg-blue-50 text-blue-600',
+    blue: 'bg-green-50 text-green-600',
     red: 'bg-red-50 text-red-600',
     green: 'bg-green-50 text-green-600',
     purple: 'bg-purple-50 text-purple-600',

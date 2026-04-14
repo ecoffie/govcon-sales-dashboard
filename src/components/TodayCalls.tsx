@@ -155,7 +155,7 @@ function CallCard({ call }: { call: CallEvent }) {
               <h4 className="text-xs font-semibold text-gray-600 uppercase tracking-wider mb-1 flex items-center gap-1">
                 <MessageSquare size={12} /> What They Want
               </h4>
-              <p className="text-sm text-gray-700 bg-blue-50 rounded-lg p-3">{lead.problem || lead.notes}</p>
+              <p className="text-sm text-gray-700 bg-green-50 rounded-lg p-3">{lead.problem || lead.notes}</p>
             </div>
           )}
 

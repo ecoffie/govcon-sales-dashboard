@@ -34,7 +34,7 @@ export default function Reports() {
 
   const reportIcon = (filename: string) => {
     if (filename.includes('morning')) return <Sun size={14} className="text-amber-500" />
-    if (filename.includes('evening')) return <Moon size={14} className="text-indigo-500" />
+    if (filename.includes('evening')) return <Moon size={14} className="text-green-500" />
     if (filename.includes('qa')) return <Shield size={14} className="text-rose-500" />
     return <FileText size={14} className="text-gray-400" />
   }
@@ -98,7 +98,7 @@ export default function Reports() {
                       activeReport?.filename === f ? 'bg-brand-50' : ''
                     }`}
                   >
-                    <FileText size={14} className="text-blue-500" />
+                    <FileText size={14} className="text-green-500" />
                     <span className="text-sm text-gray-700">{f.replace('.md', '')}</span>
                   </button>
                 ))}
