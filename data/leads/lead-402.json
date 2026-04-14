@@ -1,0 +1,30 @@
+{
+  "id": "lead-402",
+  "name": "LaDale Carter",
+  "email": "ladalecrtr1@gmail.com",
+  "phone": "+1 312-934-5378",
+  "company": "Investor Scope Global LLC",
+  "score": "WARM",
+  "source": "gmail_to_respond",
+  "first_contact_date": "2025-09-13T11:30:00+00:00",
+  "last_action": "Sent capability statement info. Active client with meetings.",
+  "last_action_date": "2026-04-06T15:53:20.000Z",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "Active client. Multiple meetings including GovCon's client meeting Jan 29. Also Bridget Bonita (bwssinc@gmail.com) involved. Sent cap statement info Apr 6. UEI: YB6YVAD42AH9, CAGE: 18Z37.",
+  "gmail_thread_id": "19d64927ac4707d9",
+  "gmail_labels": [
+    "To Respond",
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2025-09-13T11:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "lead"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "lead-025",
+  "name": "Christopher Fernando",
+  "email": "chris@fernandogroupllc.com",
+  "phone": "",
+  "company": "Fernando Group LLC",
+  "score": "HOT",
+  "source": "gmail_proposal_leads",
+  "first_contact_date": "2026-01-27T15:34:26.000Z",
+  "last_action": "Accepted White Glove Proposal, ongoing Q&A sessions scheduled",
+  "last_action_date": "2026-02-04T16:04:12.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "Construction company pivoting to federal. Sent Govcon White Glove Proposal. Chris accepted proposal. Open Q&A sessions with Fernando Group and GovCon Giants scheduled. Active client.",
+  "gmail_thread_id": "19c01257dc980a9b",
+  "gmail_labels": [
+    "Proposal Leads"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier3_white_glove",
+  "client_product": "White Glove BD Services",
+  "client_amount": "Custom",
+  "client_start_date": "2026-01-27",
+  "client_status": "active"
+}

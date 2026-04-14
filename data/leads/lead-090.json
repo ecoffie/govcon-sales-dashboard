@@ -1,0 +1,30 @@
+{
+  "id": "lead-090",
+  "name": "Rosly Cherelus",
+  "email": "roz@newagelogistic.com",
+  "phone": "+1 954-822-2803",
+  "company": "$0 - $249,000",
+  "score": "HOT",
+  "source": "instagram",
+  "status": "call_completed",
+  "first_contact_date": "2025-05-26T14:30:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2025-05-26T14:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "Consulting Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2025-05-26T14:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$0 - $249,000",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

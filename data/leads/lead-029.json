@@ -1,0 +1,37 @@
+{
+  "id": "lead-029",
+  "name": "Isaias Garcia",
+  "email": "isaiasgarcia01@gmail.com",
+  "phone": "",
+  "company": "Atlas Execs LLC",
+  "score": "HOT",
+  "source": "gmail_proposal_leads",
+  "first_contact_date": "2026-01-27T15:24:08.000Z",
+  "last_action": "Signed up for Pro Membership using atlasexecs123@gmail.com, attending Bootcamp",
+  "last_action_date": "2026-01-29T20:19:28.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "Federal Contracting Proposal sent. Isaias and Patrick (pjalvare9@gmail.com) reviewing together. Signed up for Pro Membership, attended Bootcamp. Ongoing meeting recaps from Fireflies.",
+  "gmail_thread_id": "19c011e55e850274",
+  "gmail_labels": [
+    "Proposal Leads"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier2_consulting",
+  "client_product": "Pro Member Accelerator",
+  "client_amount": "$5,997",
+  "client_start_date": "2026-02-20",
+  "client_status": "refunded"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "lead-013",
+  "name": "Terry Lucas",
+  "email": "tlucas08@gmail.com",
+  "phone": "",
+  "company": "Kairos Security",
+  "score": "HOT",
+  "source": "gmail_calendly",
+  "first_contact_date": "2026-03-27T00:00:00.000Z",
+  "last_action": "Joined Pro Membership. Multiple discovery calls booked. Attended bootcamp.",
+  "last_action_date": "2026-04-08T00:00:00.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "Multiple GCG Discovery Calls (Apr 6, 7, 8). Also uses tlucas@kairos-security.com. Joined Pro Membership after receiving GovCon Giants Plans. Attended March bootcamp. Active member.",
+  "gmail_thread_id": "19d3112acbfe6631",
+  "gmail_labels": [
+    "Calendly",
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "Pro Member Group",
+  "client_amount": "$99/mo",
+  "client_start_date": "2026-03-28",
+  "client_status": "active"
+}

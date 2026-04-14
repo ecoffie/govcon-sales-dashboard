@@ -1,0 +1,32 @@
+{
+  "id": "lead-384",
+  "name": "John Burke",
+  "email": "john.burke@asn-corp.com",
+  "phone": "",
+  "company": "Alliance Sourcing Network",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-06T23:57:31.000Z",
+  "last_action": "Accepted opportunity meeting invite Apr 9",
+  "last_action_date": "2026-04-09T16:58:13.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Accepted opportunity meeting with Alliance Sourcing Network. Meeting rescheduled to Apr 14 between noon-5PM per Sara.",
+  "gmail_thread_id": "19d653af0dec6a0a",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

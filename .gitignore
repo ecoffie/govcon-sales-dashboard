@@ -1,0 +1,6 @@
+node_modules
+dist
+.vercel
+*.log
+data/stripe-cache.json
+data/config.json

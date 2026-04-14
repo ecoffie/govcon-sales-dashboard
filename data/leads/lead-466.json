@@ -1,0 +1,32 @@
+{
+  "id": "lead-466",
+  "name": "Maggie Green",
+  "email": "Info@mmgglobalconsultingservices.com",
+  "phone": "",
+  "company": "MMG Global Consulting Services",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-01-21T15:16:54.000Z",
+  "last_action": "Accepted Reconnect & Opportunity Review Meeting with GovCon Giants",
+  "last_action_date": "2026-01-21T15:16:54.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Reconnect & Opportunity Review Meeting accepted. Returning lead.",
+  "gmail_thread_id": "19be1215ff94e28c",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

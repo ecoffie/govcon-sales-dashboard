@@ -1,0 +1,30 @@
+{
+  "id": "lead-005",
+  "name": "Naftalie Pollard",
+  "email": "nafie38@gmail.com",
+  "phone": "508-345-8375",
+  "company": "Pollard Enterprises and Partners LLC",
+  "score": "HOT",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-07T20:53:41.000Z",
+  "last_action": "Accepted opportunity meeting for Apr 9 2pm EDT",
+  "last_action_date": "2026-04-10T23:59:00.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Digital marketing, advertising, and consulting services. Portland-based. Accepted opportunity meeting for Apr 9 2pm EDT. Interested in pursuing federal contracting locally and nationally.",
+  "gmail_thread_id": "19d69b8f4daef271",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

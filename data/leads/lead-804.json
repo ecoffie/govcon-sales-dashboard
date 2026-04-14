@@ -1,0 +1,32 @@
+{
+  "id": "lead-804",
+  "name": "Christopher Richardson",
+  "email": "richiecd07@aol.com",
+  "phone": "",
+  "company": "",
+  "score": "BASIC",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-06T00:00:00.000Z",
+  "last_action": "Google-researched federal contracting, believes this would be a good fit",
+  "last_action_date": "2026-04-06T21:00:19.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Did Google research about federal contracting. Believes it would be a good fit. Replied to outreach.",
+  "gmail_thread_id": "19d53f56b3d50efd",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

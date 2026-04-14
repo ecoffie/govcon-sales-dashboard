@@ -1,0 +1,10 @@
+{
+  "operator": {
+    "name": "Your Name",
+    "phone": "YOUR_PHONE"
+  },
+  "stripe": {
+    "api_key": "SET_AS_VERCEL_ENV_VAR_STRIPE_API_KEY",
+    "enabled": true
+  }
+}

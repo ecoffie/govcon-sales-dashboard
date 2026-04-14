@@ -1,0 +1,30 @@
+{
+  "id": "lead-405",
+  "name": "Jimmie Powell",
+  "email": "jpowell232008@yahoo.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-04T18:19:34.000Z",
+  "last_action": "Replied Yes to outreach about quick call",
+  "last_action_date": "2026-04-04T18:19:34.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Replied 'Yes' to outreach asking if open to a quick call to identify federal contracting opportunities for their business.",
+  "gmail_thread_id": "19d4e73842927c14",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

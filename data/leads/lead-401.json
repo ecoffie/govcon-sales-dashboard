@@ -1,0 +1,37 @@
+{
+  "id": "lead-401",
+  "name": "Ashlee O'Neal",
+  "email": "info@csexclusive.org",
+  "phone": "",
+  "company": "CS Exclusive",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-06T18:49:59.000Z",
+  "last_action": "Re-joined platform, wants to speak about Pro membership",
+  "last_action_date": "2026-04-06T18:49:59.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "Recently re-joined the platform. Would like to speak to someone regarding Pro membership. Needs callback.",
+  "gmail_thread_id": "19d64fd411b4c500",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "Pro Member Group",
+  "client_amount": "$99/mo",
+  "client_start_date": "2026-04-06",
+  "client_status": "active"
+}

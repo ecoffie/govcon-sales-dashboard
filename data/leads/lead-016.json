@@ -1,0 +1,30 @@
+{
+  "id": "lead-016",
+  "name": "Julius Thomas",
+  "email": "julius@optimalperformancesystem.com",
+  "phone": "",
+  "company": "Alexandra Fower",
+  "score": "HOT",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-07T14:46:18.000Z",
+  "last_action": "Meeting scheduled with GovCon Giants for Apr 14 3pm EDT. Branden requested 3-way meeting with Eric and Julian.",
+  "last_action_date": "2026-04-03T13:59:00.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Director of Operations at Alexandra Fower. Meeting scheduled Apr 14 3pm EDT. Branden escalated to include Eric and Julian in meeting.",
+  "gmail_thread_id": "19d68689a53d0eb6",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

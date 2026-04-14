@@ -1,0 +1,32 @@
+{
+  "id": "lead-007",
+  "name": "Wendell Polk",
+  "email": "wepolk@msn.com",
+  "phone": "254-368-2608",
+  "company": "Roo Dog Logistics",
+  "score": "HOT",
+  "source": "gmail_interested",
+  "first_contact_date": "2025-04-21T14:00:00+00:00",
+  "last_action": "Replied Yes to outreach. Provided company details: Logistics, NAICS 532120/488999/484110",
+  "last_action_date": "2026-04-09T18:55:58.000Z",
+  "follow_up_count": 1,
+  "status": "call_completed",
+  "notes": "Originally wanted Executive pkg for First Partner Challenge. Payment issues. Re-engaged April 2026 - replied Yes. Company: Roo Dog Logistics. Logistics field, NAICS: 532120, 488999, 484110.",
+  "gmail_thread_id": "197214a99ba0ae3d",
+  "gmail_labels": [
+    "Interested",
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "Consulting Discovery Call",
+    "total_calls": 3,
+    "last_call_date": "2025-07-14T14:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$0 - $249,000"
+  },
+  "type": "lead"
+}

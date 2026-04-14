@@ -1,0 +1,32 @@
+{
+  "id": "lead-397",
+  "name": "Tim Dieschbourg",
+  "email": "tim@taskcg.com",
+  "phone": "",
+  "company": "Task Construction Group",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-07T00:00:00.000Z",
+  "last_action": "Rescheduled to Tuesday at 12pm PT",
+  "last_action_date": "2026-04-07T19:20:18.000Z",
+  "follow_up_count": 1,
+  "status": "booked",
+  "notes": "Task Construction Group. Meeting cancelled, rescheduled to Tuesday at 12pm PT.",
+  "gmail_thread_id": "19d68407fa3ca2f9",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

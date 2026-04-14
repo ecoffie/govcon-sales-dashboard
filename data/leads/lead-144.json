@@ -1,0 +1,35 @@
+{
+  "id": "lead-144",
+  "name": "Greg Jackson",
+  "email": "gregory@j-govpro.com",
+  "phone": "+1 703-851-4784",
+  "company": "",
+  "score": "HOT",
+  "source": "calendly",
+  "status": "paid",
+  "first_contact_date": "2025-03-31T09:00:00+00:00",
+  "last_action": "paid",
+  "last_action_date": "2025-03-31T09:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "Govcon Onboarding",
+    "total_calls": 1,
+    "last_call_date": "2025-03-31T09:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "client",
+  "client_tier": "tier2_consulting",
+  "client_product": "Consulting (Onboarded)",
+  "client_amount": "Unknown",
+  "client_start_date": "2025-03-31",
+  "client_status": "active"
+}

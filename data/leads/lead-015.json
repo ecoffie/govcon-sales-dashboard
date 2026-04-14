@@ -1,0 +1,30 @@
+{
+  "id": "lead-015",
+  "name": "Lina Park",
+  "email": "lpark@govpointefocus.us",
+  "phone": "",
+  "company": "GovPointe Focus",
+  "score": "HOT",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-06T00:17:18.000Z",
+  "last_action": "Sent RFQ opportunity for City of Seattle program",
+  "last_action_date": "2026-04-06T00:17:18.000Z",
+  "follow_up_count": 0,
+  "status": "new",
+  "notes": "Procurement Support. Sent RFQ: City of Seattle Citywide Consultant Roster Program for HR, Communications, and Project Management Consulting. 5-year RFQ, $8M-$20M total. NAICS 541611.",
+  "gmail_thread_id": "19d6026b34db9637",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

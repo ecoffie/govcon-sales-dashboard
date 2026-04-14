@@ -1,0 +1,38 @@
+{
+  "id": "lead-027",
+  "name": "Abie Musa",
+  "email": "abie.musa@mvl-group.com",
+  "phone": "+306944152012",
+  "company": "MVL Group / MVL USA",
+  "score": "HOT",
+  "source": "gmail_proposal_leads",
+  "first_contact_date": "2026-01-25T18:13:53.000Z",
+  "last_action": "Signed agreement and sent payment for 20-hour consulting engagement",
+  "last_action_date": "2026-01-30T13:28:50.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "CEO of large prime contractor MVL USA. Based in Greece/Dubai. Requested 1-on-1 consulting. Accepted 20-hour consulting package, signed agreement, sent payment. WhatsApp: +971502732942.",
+  "gmail_thread_id": "19c011a6fe666b05",
+  "gmail_labels": [
+    "Proposal Leads",
+    "Interested"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier2_consulting",
+  "client_product": "20-Hour Consulting Package",
+  "client_amount": "Custom",
+  "client_start_date": "2026-01-30",
+  "client_status": "active"
+}

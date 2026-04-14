@@ -1,0 +1,30 @@
+{
+  "id": "lead-241",
+  "name": "Mohammad Shafiqi",
+  "email": "zubairshafiqi87@gmail.com",
+  "phone": "+1 434-882-1975",
+  "company": "",
+  "score": "HOT",
+  "source": "facebook",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-27T16:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-27T16:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "I need to know how i can get a ok",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-27T16:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": "M"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

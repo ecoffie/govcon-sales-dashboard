@@ -1,0 +1,32 @@
+{
+  "id": "lead-395",
+  "name": "Mia Hudson",
+  "email": "miazhud1111@gmail.com",
+  "phone": "770-648-3220",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-07T10:56:12.000Z",
+  "last_action": "Requested cancellation. Feeling anxious and concerned.",
+  "last_action_date": "2026-04-08T10:50:21.000Z",
+  "follow_up_count": 3,
+  "status": "closed_lost",
+  "notes": "Purchased Pro Giant Bundle. Had payment/access issues with PayPal/Synchrony. Multiple back-and-forth about access. Eventually requested cancellation feeling anxious. Also uses miazhudson@gmail.com.",
+  "gmail_thread_id": "19d6871d616d5377",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

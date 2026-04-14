@@ -1,0 +1,35 @@
+{
+  "id": "lead-125",
+  "name": "Kwesi Acquah",
+  "email": "kwesi.acquah@connectdotssolution.com",
+  "phone": "+1 919-802-4249",
+  "company": "$0 - $249,000",
+  "score": "HOT",
+  "source": "other",
+  "status": "paid",
+  "first_contact_date": "2024-08-14T13:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2025-05-06T09:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "Consulting Discovery Call",
+    "total_calls": 3,
+    "last_call_date": "2025-05-06T09:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$0 - $249,000",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "client",
+  "client_tier": "tier2_consulting",
+  "client_product": "Yearly Federal Group Coaching Upgrade",
+  "client_amount": "$1,498",
+  "client_start_date": "2025-01-17",
+  "client_status": "active"
+}

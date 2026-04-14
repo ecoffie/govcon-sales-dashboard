@@ -1,0 +1,37 @@
+{
+  "id": "lead-392",
+  "name": "Kevin Wayne Johnson",
+  "email": "thejohnsonleadershipgroup@gmail.com",
+  "phone": "",
+  "company": "The Johnson Leadership Group",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-03-24T00:00:00.000Z",
+  "last_action": "Active member. Contract Vehicles Bootcamp access. Signed up for daily notifications.",
+  "last_action_date": "2026-04-08T17:15:31.000Z",
+  "follow_up_count": 1,
+  "status": "paid",
+  "notes": "Contract Vehicles Bootcamp access provided. Also signed up for daily email notifications. Active and engaged member.",
+  "gmail_thread_id": "19d1d86b2a483e2f",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "Contract Vehicles Bootcamp",
+  "client_amount": "Unknown",
+  "client_start_date": "2025-01-01",
+  "client_status": "active"
+}

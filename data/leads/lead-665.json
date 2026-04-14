@@ -1,0 +1,30 @@
+{
+  "id": "lead-665",
+  "name": "Rob",
+  "email": "enroll@itmasterkey.com",
+  "phone": "+1 409-292-8517",
+  "company": "",
+  "score": "WARM",
+  "source": "calendly",
+  "status": "call_completed",
+  "first_contact_date": "2025-04-28T12:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2025-05-22T14:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 2,
+    "last_call_date": "2025-05-22T14:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

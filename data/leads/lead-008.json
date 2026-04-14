@@ -1,0 +1,37 @@
+{
+  "id": "lead-008",
+  "name": "Peter Humleker",
+  "email": "Peter@valorgovcon.com",
+  "phone": "",
+  "company": "Valor GovCon",
+  "score": "HOT",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-03-19T00:00:00.000Z",
+  "last_action": "Follow-up meeting with Ryan scheduled for product consulting",
+  "last_action_date": "2026-04-09T16:25:12.000Z",
+  "follow_up_count": 1,
+  "status": "paid",
+  "notes": "GovCon product consulting. Call completed. Follow Up Meeting with Peter and Ryan for Product Consulting scheduled. Active engagement.",
+  "gmail_thread_id": "19d01e3ad04ce945",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "Pro Member Group",
+  "client_amount": "$99/mo",
+  "client_start_date": "2026-03-30",
+  "client_status": "active"
+}

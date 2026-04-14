@@ -1,0 +1,32 @@
+{
+  "id": "lead-019",
+  "name": "Dennis Gibbs",
+  "email": "dennis@livewiseinsurance.com",
+  "phone": "213-720-2323",
+  "company": "LiveWise Insurance / Black Arrowhead Inc",
+  "score": "HOT",
+  "source": "gmail_to_respond",
+  "first_contact_date": "2026-03-16T00:00:00.000Z",
+  "last_action": "Discussion about capabilities statement and decision-maker intro for multi-year contracts",
+  "last_action_date": "2026-03-24T01:26:37.000Z",
+  "follow_up_count": 1,
+  "status": "meeting_interest",
+  "notes": "Potential partnership opportunity. Has access to decision-maker for multi-year contracts. Discussing capabilities statement approach. Fireflies recap of strategy meeting with Black Arrowhead Inc. Needs scope details to match best company.",
+  "gmail_thread_id": "19cf81b5eca75d6c",
+  "gmail_labels": [
+    "To Respond"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

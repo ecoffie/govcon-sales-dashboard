@@ -1,0 +1,29 @@
+{
+  "id": "lead-653",
+  "name": "Opeyemi Akinseye",
+  "email": "bodunde88@gmail.com",
+  "phone": "+1 603-858-6933",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_interested",
+  "first_contact_date": "2025-05-27T14:03:22.000Z",
+  "last_action": "Will book assessment call",
+  "last_action_date": "2025-05-31T11:00:00+00:00",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "Asked how to book access call. Sent Calendly link for FREE Assessment Call. Confirmed will do that.",
+  "gmail_thread_id": "1971320e856fa144",
+  "gmail_labels": [
+    "Interested"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2025-05-31T11:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "lead"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lead-004",
+  "name": "Cornelia Murphy-House",
+  "email": "cornelia.m.murphy@gmail.com",
+  "phone": "703-731-0520",
+  "company": "Next Command AI Consulting",
+  "score": "HOT",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-08T21:26:40.000Z",
+  "last_action": "Accepted opportunity call for Apr 10 3:30pm EDT",
+  "last_action_date": "2026-04-10T23:59:00.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "SDVOSB. Cybersecurity, AI, IT professional. Accepted opportunity call for Apr 10 3:30pm EDT. Wants to partner with GovCon Giants, access contract-ready opportunities, become contract-ready and win federal opportunities. Previously connected through Veteran-focused program with Eric. Two consulting options shared for review.",
+  "gmail_thread_id": "19d6efd81652a34d",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lead-014",
+  "name": "Falilat Talabi",
+  "email": "info@globallinksmarketing.com",
+  "phone": "480-334-3562",
+  "company": "Global Links Marketing LLC",
+  "score": "HOT",
+  "source": "gmail_calendly",
+  "first_contact_date": "2026-04-02T00:00:00.000Z",
+  "last_action": "Provided full company details. Meeting scheduled Apr 15 at 8AM EST.",
+  "last_action_date": "2026-04-07T22:25:25.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "CEO, Registered Nurse 31 years. Medical Equipment and Supplies (NAICS 423450). SAM registered with UEI and CAGE code. Wants consulting guidance to win federal contracts. Interested in supplier connections (McKesson, Henry Schein, etc). Phoenix AZ. Subscribed to Pro Member Group. Meeting scheduled Apr 15.",
+  "gmail_thread_id": "19d69cafd63a471e",
+  "gmail_labels": [
+    "Inbox",
+    "Calendly"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 2,
+    "last_call_date": "2026-04-07T10:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "Pro Member Group",
+  "client_amount": "$99/mo",
+  "client_start_date": "2026-04-02",
+  "client_status": "active"
+}

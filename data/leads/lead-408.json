@@ -1,0 +1,32 @@
+{
+  "id": "lead-408",
+  "name": "Lana Nguyen",
+  "email": "lananguyen9255@gmail.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-03-30T00:00:00.000Z",
+  "last_action": "Received program options, asked for help applying",
+  "last_action_date": "2026-03-30T13:53:04.000Z",
+  "follow_up_count": 0,
+  "status": "first_touch_drafted",
+  "notes": "Received GovCon Giants Program Options Overview. Finds it hard to apply, asking for help. Needs follow-up with guided support offer.",
+  "gmail_thread_id": "19cb99e0701d8c53",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

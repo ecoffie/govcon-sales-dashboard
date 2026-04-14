@@ -1,0 +1,30 @@
+{
+  "id": "lead-301",
+  "name": "Malikah Anderson",
+  "email": "kharikhan04@yahoo.com",
+  "phone": "+1 404-563-3383",
+  "company": "Alternative Consulting Group LLC",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-08T17:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-13T09:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "Training/Guidance",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 2,
+    "last_call_date": "2023-11-13T09:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Administrative Consulting"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

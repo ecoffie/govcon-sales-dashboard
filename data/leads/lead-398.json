@@ -1,0 +1,30 @@
+{
+  "id": "lead-398",
+  "name": "Taniesha Blackella",
+  "email": "tblackella@yahoo.com",
+  "phone": "+64 6 209 3224",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_calendly",
+  "first_contact_date": "2026-02-11T00:00:00.000Z",
+  "last_action": "Asking to connect about Market Assassin Report error. Called and left message.",
+  "last_action_date": "2026-04-07T10:22:37.000Z",
+  "follow_up_count": 1,
+  "status": "call_completed",
+  "notes": "GCG Discovery Call Feb 11. Active member. Reporting error with Market Assassin Report. Wants to connect, tried calling. Needs support.",
+  "gmail_thread_id": "19d35a02f74b9d6a",
+  "gmail_labels": [
+    "Calendly",
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2026-02-11T12:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "lead"
+}

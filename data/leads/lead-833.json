@@ -1,0 +1,32 @@
+{
+  "id": "lead-833",
+  "name": "Sylvester Brown",
+  "email": "paully101@gmail.com",
+  "phone": "",
+  "company": "",
+  "score": "BASIC",
+  "source": "gmail_interested",
+  "first_contact_date": "2025-05-28T05:49:35.000Z",
+  "last_action": "Sent cohort/First Partner Challenge info",
+  "last_action_date": "2025-05-28T08:51:54.000Z",
+  "follow_up_count": 0,
+  "status": "first_touch_drafted",
+  "notes": "Wants to attend First Partners Challenge. Sent cohort details. Needs follow-up.",
+  "gmail_thread_id": "19716833b0a5d576",
+  "gmail_labels": [
+    "Interested"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

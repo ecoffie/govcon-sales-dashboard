@@ -1,0 +1,30 @@
+{
+  "id": "lead-365",
+  "name": "Alex Gazaway",
+  "email": "agazaway82@gmail.com",
+  "phone": "+1 502-408-6842",
+  "company": "Louisville",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-03T09:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-03T09:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "To see how i can get help to start winning contracts for my business and also middleman contracts as well",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-03T09:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Trucking"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

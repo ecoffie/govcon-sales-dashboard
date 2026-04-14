@@ -1,0 +1,32 @@
+{
+  "id": "lead-467",
+  "name": "Kenneth Tooles",
+  "email": "toolesk@cjkclientservices.com",
+  "phone": "",
+  "company": "CJK Client Services",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-01-20T20:59:31.000Z",
+  "last_action": "Accepted Opportunity Call with GovCon Giants Jan 28 at 9am",
+  "last_action_date": "2026-01-20T20:59:31.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Accepted Opportunity Call with Kenneth and GovCon Giants for Jan 28 at 9am.",
+  "gmail_thread_id": "19bdd334d97be184",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

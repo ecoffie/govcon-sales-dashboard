@@ -1,0 +1,32 @@
+{
+  "id": "lead-379",
+  "name": "Gabriel Igietseme (Gabe Eye)",
+  "email": "gigietseme@gmail.com",
+  "phone": "470-430-4840",
+  "company": "6S Factor LLC",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-07T00:00:00.000Z",
+  "last_action": "Accepted Opportunity Call Apr 10 at 9am. Provided company details.",
+  "last_action_date": "2026-04-10T06:15:45.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "6S Factor LLC, Management Consulting, Atlanta GA. Experience only as employee of a consulting firm. Accepted Opportunity Call for Apr 10 at 9am.",
+  "gmail_thread_id": "19d64a475cb8820d",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

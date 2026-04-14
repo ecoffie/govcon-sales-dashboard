@@ -1,0 +1,30 @@
+{
+  "id": "lead-252",
+  "name": "Kimbwrly Walker",
+  "email": "wisersourcellc@gmail.com",
+  "phone": "+1 219-810-5301",
+  "company": "0 - $200k",
+  "score": "HOT",
+  "source": "facebook",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-22T16:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-22T16:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "I just have a lot of questions in regards to contracting. I have at least three niches that I can specialize in and not sure how I should present that so it doesn't look like I'm all over the place. And I have very little startup.",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-22T16:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Training and mental health"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

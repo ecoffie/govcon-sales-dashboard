@@ -1,0 +1,30 @@
+{
+  "id": "lead-126",
+  "name": "Matthew Coleman",
+  "email": "mcoleman1185@outlook.com",
+  "phone": "+1 318-572-1331",
+  "company": "$0 - $249,000",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2025-03-28T15:30:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2025-05-05T16:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "Consulting Discovery Call",
+    "total_calls": 2,
+    "last_call_date": "2025-05-05T16:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$0 - $249,000",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

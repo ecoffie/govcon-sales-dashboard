@@ -1,0 +1,37 @@
+{
+  "id": "lead-006",
+  "name": "Sean Johnson",
+  "email": "sean@nationrestoration.org",
+  "phone": "408-242-9041",
+  "company": "Nation Restoration",
+  "score": "HOT",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-06T18:04:23.000Z",
+  "last_action": "Accepted meeting with Eric for Apr 16 12pm EDT. Also discussed GovCon Fund with Eric at Bootcamp.",
+  "last_action_date": "2026-04-10T23:59:00.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "SDVOSB, SAM Registered, OSHA 30 Certified. UEI: FYS2PJELH698, CAGE: 0QWW6. Licensed contractor CA and FL. Also reached out Mar 3 about GovCon Fund - providing/referring funding for contractors. Multi-dimensional relationship.",
+  "gmail_thread_id": "19d63f79ba563eae",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "Pro Member Group",
+  "client_amount": "$99/mo",
+  "client_start_date": "2026-02-28",
+  "client_status": "active"
+}

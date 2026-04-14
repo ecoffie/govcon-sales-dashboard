@@ -1,0 +1,32 @@
+{
+  "id": "lead-382",
+  "name": "Eve Taalak",
+  "email": "Evetaalak@outlook.com",
+  "phone": "701-490-2969",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-09T00:00:00.000Z",
+  "last_action": "Replied Yes. Sent proof of dual enrollment (Cheyenne River Sioux Tribe).",
+  "last_action_date": "2026-04-09T20:39:21.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Enrolled on Cheyenne River Sioux Tribe - dual enrollment. Sent CIB & Copy of ID. Native American owned business potential.",
+  "gmail_thread_id": "19d73a2a8378adfe",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

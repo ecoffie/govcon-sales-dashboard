@@ -1,0 +1,30 @@
+{
+  "id": "lead-753",
+  "name": "Carl Dantes",
+  "email": "wizleyallen92@gmail.com",
+  "phone": "+1 571-503-0974",
+  "company": "Above $5mil",
+  "score": "WARM",
+  "source": "facebook",
+  "status": "call_completed",
+  "first_contact_date": "2023-12-14T17:30:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-12-14T17:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "Construction Company Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2023-12-14T17:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "Above $5mil",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "lead-074",
+  "name": "Chieftain Watson",
+  "email": "info@tinchiefenterprisesolutions.com",
+  "phone": "202-235-6476",
+  "company": "TinChief Enterprise Solutions",
+  "score": "HOT",
+  "source": "gmail_interested",
+  "first_contact_date": "2025-05-29T18:33:33.000Z",
+  "last_action": "Sent starter plan payment link",
+  "last_action_date": "2025-05-30T18:05:03.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "Wanted to sign up for First Partner Challenge. Account balance of $1007 for Starter or $4007 for Executive upgrade. Asked for payment plan, sent link. Financing options via Klarna/Affirm.",
+  "gmail_thread_id": "1971d52414a232be",
+  "gmail_labels": [
+    "Interested"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier2_consulting",
+  "client_product": "First Partner Challenge Package",
+  "client_amount": "$1,007+",
+  "client_start_date": "2025-05-01",
+  "client_status": "active"
+}

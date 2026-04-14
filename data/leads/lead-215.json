@@ -1,0 +1,30 @@
+{
+  "id": "lead-215",
+  "name": "Michelle Lopez",
+  "email": "michelle@2sistersplumbing.com",
+  "phone": "+1 708-971-3290",
+  "company": "$250k - $500k",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-12-01T12:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-12-01T12:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "Hi, we have been following Eric for a while. Love his YouTube channel. We have taken other 5 day challenges. Yet, we still need much help with learning how to properly do federal contracting. Also, we are interested in the subcontracting and we do own a plumbing, hvac and remodeling services business here in the state of Illinois. Look forward to speaking to Eric or his team and finding out a bit more about his course or mentorship. Thank you!",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-12-01T12:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$250k - $500k",
+    "industry": "Construction"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

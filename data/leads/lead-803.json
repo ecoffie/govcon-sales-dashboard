@@ -1,0 +1,32 @@
+{
+  "id": "lead-803",
+  "name": "Viola Fisher",
+  "email": "mslovelyviola@yahoo.com",
+  "phone": "",
+  "company": "",
+  "score": "BASIC",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-06T23:08:45.000Z",
+  "last_action": "Inquired about veteran discount for programs",
+  "last_action_date": "2026-04-06T23:08:45.000Z",
+  "follow_up_count": 0,
+  "status": "new",
+  "notes": "Inquiring about veteran discount for programs. Needs response.",
+  "gmail_thread_id": "19d650e4cbc03c11",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

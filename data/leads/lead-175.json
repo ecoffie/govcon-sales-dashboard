@@ -1,0 +1,30 @@
+{
+  "id": "lead-175",
+  "name": "Marshall Tubbs",
+  "email": "marshalltubbs@svjs.biz",
+  "phone": "+1 707-624-9120",
+  "company": "0 - $200k",
+  "score": "HOT",
+  "source": "facebook",
+  "status": "call_completed",
+  "first_contact_date": "2023-12-11T14:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-12-11T14:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "How to effectively communicate with the Federal gov contractors to bet more stable contracts",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-12-11T14:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Janitorial"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

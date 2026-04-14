@@ -1,0 +1,32 @@
+{
+  "id": "lead-381",
+  "name": "Be Kelly",
+  "email": "bkelly691@gmail.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-08T00:00:00.000Z",
+  "last_action": "Will review IDV info and reach out with questions",
+  "last_action_date": "2026-04-09T20:50:44.000Z",
+  "follow_up_count": 0,
+  "status": "first_touch_drafted",
+  "notes": "Thanked GovCon Giants for valuable information on government contracting. Reviewing IDV information. Will reach out with specific questions.",
+  "gmail_thread_id": "19d6ef5162e6dd66",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

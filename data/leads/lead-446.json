@@ -1,0 +1,32 @@
+{
+  "id": "lead-446",
+  "name": "Samuel Barrington",
+  "email": "sam@skylimitcrane.com",
+  "phone": "",
+  "company": "Sky Limit Crane",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-01-30T16:32:08.000Z",
+  "last_action": "Accepted meeting with GovCon Giants Feb 2 at 3pm",
+  "last_action_date": "2026-01-30T16:32:08.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Meeting with Samuel and GovCon Giants accepted for Feb 2 at 3pm.",
+  "gmail_thread_id": "19c0fbf6b24854d7",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

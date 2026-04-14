@@ -1,0 +1,30 @@
+{
+  "id": "lead-584",
+  "name": "anne kemberling",
+  "email": "anne@kemberling.net",
+  "phone": "+1 832-306-9501",
+  "company": "",
+  "score": "WARM",
+  "source": "calendly",
+  "status": "call_completed",
+  "first_contact_date": "2025-09-05T09:30:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2025-09-05T09:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2025-09-05T09:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

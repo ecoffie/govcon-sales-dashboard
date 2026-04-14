@@ -1,0 +1,32 @@
+{
+  "id": "lead-399",
+  "name": "Taneshia Scott",
+  "email": "penny629ott@gmail.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_to_respond",
+  "first_contact_date": "2026-04-07T08:49:51.000Z",
+  "last_action": "Bootcamp attendee - opportunity alerts sending wrong NAICS codes",
+  "last_action_date": "2026-04-07T08:49:51.000Z",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "March Bootcamp attendee. Opportunity alerts not working correctly - first two times sent wrong NAICS codes. Needs support response.",
+  "gmail_thread_id": "19d683529afb6d43",
+  "gmail_labels": [
+    "To Respond"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

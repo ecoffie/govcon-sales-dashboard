@@ -1,0 +1,32 @@
+{
+  "id": "lead-800",
+  "name": "Abdul Rehman",
+  "email": "abdulrehman@focuspass.com",
+  "phone": "",
+  "company": "FocusPass",
+  "score": "BASIC",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-08T00:00:00.000Z",
+  "last_action": "Replied Yes to outreach",
+  "last_action_date": "2026-04-09T12:57:29.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Replied Yes to federal contracting outreach.",
+  "gmail_thread_id": "19d6d70163f1f487",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

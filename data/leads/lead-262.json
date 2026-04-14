@@ -1,0 +1,30 @@
+{
+  "id": "lead-262",
+  "name": "Andy Schlager",
+  "email": "palisadesgroupllc@outlook.com",
+  "phone": "+1 513-526-4056",
+  "company": "0 - $200k",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-21T13:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-21T13:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "More info/ recommendations on how to get off the ground so to speak.",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-21T13:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "332992, 332993, 332994, 8470, Military and Law Enforcement equipment"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

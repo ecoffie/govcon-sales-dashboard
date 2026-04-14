@@ -1,0 +1,32 @@
+{
+  "id": "lead-470",
+  "name": "Toni",
+  "email": "toni@iistaffing.com",
+  "phone": "",
+  "company": "Independent Insurance / II Staffing",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-01-19T20:47:35.000Z",
+  "last_action": "Accepted Opportunity Call with GovCon Giants",
+  "last_action_date": "2026-01-19T20:47:35.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Accepted Opportunity Call with Toni and GovCon Giants.",
+  "gmail_thread_id": "19bd8036a1903f0c",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

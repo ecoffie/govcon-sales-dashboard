@@ -1,0 +1,30 @@
+{
+  "id": "lead-202",
+  "name": "Obinna Onungwa",
+  "email": "obi@poweredbycue.com",
+  "phone": "+1 202-905-5550",
+  "company": "$250k - $500k",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-12-05T15:30:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-12-05T15:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "I want to secure federal government contracts in 2024. I have secured MBWE city government contracts in NYC.",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-12-05T15:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$250k - $500k",
+    "industry": "Branding & Marketing Services"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

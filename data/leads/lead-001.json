@@ -1,0 +1,30 @@
+{
+  "id": "lead-001",
+  "name": "Timothy LeFlore",
+  "email": "t.leflore46@gmail.com",
+  "phone": "+1 909-489-1401",
+  "company": "",
+  "score": "HOT",
+  "source": "calendly",
+  "status": "booked",
+  "first_contact_date": "2025-03-13T17:00:00+00:00",
+  "last_action": "booked",
+  "last_action_date": "2026-04-13T13:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 3,
+    "last_call_date": "2026-04-13T13:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

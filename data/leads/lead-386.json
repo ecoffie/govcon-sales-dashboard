@@ -1,0 +1,32 @@
+{
+  "id": "lead-386",
+  "name": "DeJuan McIntyre",
+  "email": "dbmjr2000@gmail.com",
+  "phone": "463-317-9970",
+  "company": "Plugz and Co.",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-01T00:00:00.000Z",
+  "last_action": "Provided company details. LLC exists but never done anything with it. Currently in Indianapolis.",
+  "last_action_date": "2026-04-09T12:14:52.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Plugz and Co. LLC exists but never used. Currently in Indianapolis. New to federal contracting.",
+  "gmail_thread_id": "19d4096813c28545",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

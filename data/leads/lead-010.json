@@ -1,0 +1,35 @@
+{
+  "id": "lead-010",
+  "name": "Angie Schyma",
+  "email": "aschyma@mdstaffing.services",
+  "phone": "+1 701-401-4414",
+  "company": "MD Staffing Services",
+  "score": "HOT",
+  "source": "gmail_calendly",
+  "first_contact_date": "2026-03-13T00:00:00.000Z",
+  "last_action": "Confirmed meeting for Friday Apr 17 at 1pm. Active proposal discussion.",
+  "last_action_date": "2026-04-09T12:09:07.000Z",
+  "follow_up_count": 2,
+  "status": "paid",
+  "notes": "Federal staffing company. Multiple discovery calls (Mar 13, 14, 18). Federal Staffing Proposal sent. Seth and Angie reviewing. Child was sick causing delay. Re-engaged Apr 8. Confirmed meeting Apr 17 at 1pm.",
+  "gmail_thread_id": "19d0658e0b9ce0a0",
+  "gmail_labels": [
+    "Meetings",
+    "Calendly"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 2,
+    "last_call_date": "2026-03-18T14:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "Pro Member Group",
+  "client_amount": "$99/mo",
+  "client_start_date": "2026-03-11",
+  "client_status": "active"
+}

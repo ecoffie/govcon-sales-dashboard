@@ -1,0 +1,30 @@
+{
+  "id": "lead-197",
+  "name": "ANTARA",
+  "email": "amurdock65@gmail.com",
+  "phone": "+1 443-877-7959",
+  "company": "$250k - $500k",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-12-06T13:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-12-06T13:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "As a minority owned small business, I am looking for information on how I can expedite the process of securing a government contract.",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-12-06T13:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$250k - $500k",
+    "industry": "Construction"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

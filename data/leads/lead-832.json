@@ -1,0 +1,32 @@
+{
+  "id": "lead-832",
+  "name": "Tylvia Addoh",
+  "email": "tylviaaddoh@addohandco.com",
+  "phone": "",
+  "company": "Addoh and Co",
+  "score": "BASIC",
+  "source": "gmail_interested",
+  "first_contact_date": "2025-05-27T16:04:22.000Z",
+  "last_action": "Sent free beginner course link and assessment call info",
+  "last_action_date": "2025-05-28T08:55:07.000Z",
+  "follow_up_count": 0,
+  "status": "first_touch_drafted",
+  "notes": "Found GovCon via YouTube. Looking to learn about government contracts. Sent free course link and scheduling info.",
+  "gmail_thread_id": "1971358c82354b3d",
+  "gmail_labels": [
+    "Interested"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

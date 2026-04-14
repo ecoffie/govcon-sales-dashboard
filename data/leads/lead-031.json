@@ -1,0 +1,29 @@
+{
+  "id": "lead-031",
+  "name": "Supriya",
+  "email": "techie_skill@yahoo.com",
+  "phone": "+1 248-434-7246",
+  "company": "",
+  "score": "HOT",
+  "source": "gmail_proposal_leads",
+  "first_contact_date": "2026-01-12T13:00:00+00:00",
+  "last_action": "Govcon Development Proposal sent",
+  "last_action_date": "2026-01-27T15:27:34.000Z",
+  "follow_up_count": 0,
+  "status": "proposal_sent",
+  "notes": "Had a call about federal contracting journey. Sent Govcon Development Proposal. Needs follow-up.",
+  "gmail_thread_id": "19c0120df0244930",
+  "gmail_labels": [
+    "Proposal Leads"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2026-01-12T13:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "lead"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lead-406",
+  "name": "Carolyn Solaru",
+  "email": "solaru839@gmail.com",
+  "phone": "+1 202-236-6580",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_calendly",
+  "first_contact_date": "2026-04-04T11:30:00+00:00",
+  "last_action": "Had GCG Discovery Call with Eric Coffie on Apr 4 at 11:30am EDT",
+  "last_action_date": "2026-04-04T15:33:54.000Z",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "Booked GCG Discovery Call via Calendly for Apr 4 at 11:30am. Confirmed she was in the waiting room. Call completed. Follow up on outcome and next steps.",
+  "gmail_thread_id": "19d592152e2b18f9",
+  "gmail_labels": [
+    "Calendly"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2026-04-04T11:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "lead"
+}

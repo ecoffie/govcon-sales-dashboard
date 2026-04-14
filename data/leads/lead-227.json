@@ -1,0 +1,30 @@
+{
+  "id": "lead-227",
+  "name": "Cornelius Weems",
+  "email": "corneliusweems@gmail.com",
+  "phone": "+1 815-600-4430",
+  "company": "0 - $200k",
+  "score": "HOT",
+  "source": "facebook",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-29T15:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-29T15:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "To begin getting government contracts.",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-29T15:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Government contracting"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

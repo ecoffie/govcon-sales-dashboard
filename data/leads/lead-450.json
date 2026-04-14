@@ -1,0 +1,32 @@
+{
+  "id": "lead-450",
+  "name": "Bridget Bonita",
+  "email": "bwssinc@gmail.com",
+  "phone": "",
+  "company": "BWS Inc",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-01-25T05:44:41.000Z",
+  "last_action": "Accepted client meeting with GovCon Jan 29 at 11am. Same meeting as LaDale Carter.",
+  "last_action_date": "2026-01-29T16:03:22.000Z",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "GovCon client meeting accepted. Same session as LaDale Carter (Investor Scope Global).",
+  "gmail_thread_id": "19bf3aedcba2ae6b",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

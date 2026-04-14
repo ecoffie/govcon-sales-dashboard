@@ -1,0 +1,30 @@
+{
+  "id": "lead-388",
+  "name": "Vance Hodges",
+  "email": "veman232@sbcglobal.net",
+  "phone": "+1 314-369-5553",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_calendly",
+  "first_contact_date": "2026-04-03T00:00:00.000Z",
+  "last_action": "Inquired about consulting course and pricing",
+  "last_action_date": "2026-04-09T02:12:39.000Z",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "Booked GCG Beginners Call for Apr 4. Interested in consulting course - inquiring about what you get when purchasing. Needs follow-up with details.",
+  "gmail_thread_id": "19d50428207aec79",
+  "gmail_labels": [
+    "Calendly",
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Beginners Call",
+    "total_calls": 1,
+    "last_call_date": "2026-04-04T11:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "lead"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lead-303",
+  "name": "Shawntez Allen",
+  "email": "shawnteza@allencapital.pro",
+  "phone": "+1 216-609-8434",
+  "company": "Allen Capital LLC",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-11T11:30:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-11T11:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "How to bid and find opportunities",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-11T11:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Courier service"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

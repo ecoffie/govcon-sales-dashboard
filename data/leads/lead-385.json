@@ -1,0 +1,32 @@
+{
+  "id": "lead-385",
+  "name": "Sara Bukhari",
+  "email": "sbukhari@asn-corp.com",
+  "phone": "",
+  "company": "Alliance Sourcing Network",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-06T19:14:03.000Z",
+  "last_action": "Meeting rescheduled to Tuesday 4/14 between noon-5PM EST",
+  "last_action_date": "2026-04-09T15:05:40.000Z",
+  "follow_up_count": 1,
+  "status": "booked",
+  "notes": "Alliance Sourcing Network. Same meeting as John Burke. Original meeting cancelled, rescheduled to Apr 14.",
+  "gmail_thread_id": "19d6437d015fd72e",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

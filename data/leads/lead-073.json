@@ -1,0 +1,37 @@
+{
+  "id": "lead-073",
+  "name": "Ernesto Bent",
+  "email": "ernestobent@avianoprocurement.com",
+  "phone": "",
+  "company": "Aviano Procurement",
+  "score": "HOT",
+  "source": "gmail_interested",
+  "first_contact_date": "2025-05-30T11:03:57.000Z",
+  "last_action": "Purchased membership, got access link. Enrolled in program.",
+  "last_action_date": "2025-06-02T07:37:46.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "Clarified enrollment options. Secured with $1000 deposit for Starter Package. Purchased membership, access link sent. Enrolled in First Partner Challenge. Active client.",
+  "gmail_thread_id": "19721efab25f2b77",
+  "gmail_labels": [
+    "Interested"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "tier2_consulting",
+  "client_product": "Starter Package",
+  "client_amount": "$1,000",
+  "client_start_date": "2025-05-01",
+  "client_status": "active"
+}

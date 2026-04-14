@@ -1,0 +1,32 @@
+{
+  "id": "lead-030",
+  "name": "Haralambos Tsivicos",
+  "email": "tsivikos@tsivikos.com",
+  "phone": "",
+  "company": "Tsivicos",
+  "score": "HOT",
+  "source": "gmail_proposal_leads",
+  "first_contact_date": "2026-01-27T15:44:33.000Z",
+  "last_action": "Lead/Contract Generator Proposal sent",
+  "last_action_date": "2026-01-27T15:44:33.000Z",
+  "follow_up_count": 0,
+  "status": "proposal_sent",
+  "notes": "Had a call with GovCon Giants. Sent Lead/Contract Generator Proposal. Needs follow-up on proposal response.",
+  "gmail_thread_id": "19c0131fcc67bf83",
+  "gmail_labels": [
+    "Proposal Leads"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

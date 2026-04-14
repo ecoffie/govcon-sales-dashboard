@@ -1,0 +1,32 @@
+{
+  "id": "lead-021",
+  "name": "Gaylord Neal",
+  "email": "gaylordn@qmespotlight.com",
+  "phone": "",
+  "company": "Qme Spotlight Ecosystem",
+  "score": "HOT",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-03-03T16:30:08.000Z",
+  "last_action": "Strategic Partnership meeting scheduled Mar 4 at 2pm EST",
+  "last_action_date": "2026-03-03T16:30:08.000Z",
+  "follow_up_count": 0,
+  "status": "booked",
+  "notes": "Strategic Partnership between GovCon Giants and Qme Spotlight Ecosystem. Meeting with Bentley Charlemagne (bentleyc@qmespotlight.com) and Eric. Partnership opportunity.",
+  "gmail_thread_id": "19cb489192425a5d",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

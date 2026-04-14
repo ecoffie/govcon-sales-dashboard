@@ -1,0 +1,36 @@
+{
+  "id": "lead-050",
+  "name": "Raffaela Gibbard",
+  "email": "raffagibbard@braveone.net",
+  "phone": "+1 828-406-7498",
+  "company": "Brave One Contract Agency LLC",
+  "score": "HOT",
+  "source": "gmail_proposal_leads",
+  "first_contact_date": "2025-05-07T14:00:00+00:00",
+  "last_action": "Active client - Custom Workbench, OpnGov IQ seats, pursuing Belvoir elevator maintenance contract",
+  "last_action_date": "2025-08-13T14:18:33.000Z",
+  "follow_up_count": 0,
+  "status": "paid",
+  "notes": "CAGE 82L34. Active paying client. Custom Workbench Proposal. OpnGov IQ monthly seats. Pursuing elevator maintenance contract at Fort Belvoir. Team member Justin onboarded with NDA.",
+  "gmail_thread_id": "19856842260652fb",
+  "gmail_labels": [
+    "Proposal Leads"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "Consulting Discovery Call",
+    "total_calls": 3,
+    "last_call_date": "2025-07-29T10:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$250,00 - $999,000"
+  },
+  "type": "client",
+  "client_tier": "tier3_white_glove",
+  "client_product": "Custom Workbench + OpnGov IQ",
+  "client_amount": "Custom",
+  "client_start_date": "2025-05-07",
+  "client_status": "active"
+}

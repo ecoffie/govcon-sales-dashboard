@@ -1,0 +1,30 @@
+{
+  "id": "lead-372",
+  "name": "Denovian Brown",
+  "email": "dbrown@jbhaulingllc.net",
+  "phone": "+1 470-925-4689",
+  "company": "J & B Hauling LLC",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-10-30T13:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-10-30T13:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "We need help in understanding and acquiring government contracts. Also, navigating SAM.gov on how to search for the industries we\u2019re looking for.",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-10-30T13:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "Below $500k",
+    "industry": "Transportation; Janitorial Services; Convenience Retailers and Vending Machine Operators"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

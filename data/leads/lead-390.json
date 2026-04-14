@@ -1,0 +1,32 @@
+{
+  "id": "lead-390",
+  "name": "Ikenna Ojimba",
+  "email": "ikenna.ojimba@yahoo.com",
+  "phone": "617-780-9994",
+  "company": "IK Financial & Investment LLC",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-08T00:00:00.000Z",
+  "last_action": "Provided company details: IK Financial & Investment LLC, Boston MA",
+  "last_action_date": "2026-04-08T20:14:33.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "IK Financial & Investment LLC, Boston MA. Interested in federal contracting. Provided phone number.",
+  "gmail_thread_id": "19d6d705e6b26d11",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lead-783",
+  "name": "Daniel Gilmete",
+  "email": "danielvgilmete@gmail.com",
+  "phone": "+1 617-708-7091",
+  "company": "Rhode Island. Massachusetts",
+  "score": "WARM",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-27T11:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-27T11:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "Construction Company Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2023-11-27T11:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "Under 100k",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "lead-657",
+  "name": "Ayana Spears",
+  "email": "aspears@bbelectric-inc.com",
+  "phone": "",
+  "company": "BB Electric Inc",
+  "score": "WARM",
+  "source": "gmail_follow_up",
+  "first_contact_date": "2025-05-29T13:58:44.000Z",
+  "last_action": "Asked about lenders in GovCon network",
+  "last_action_date": "2025-05-29T13:58:44.000Z",
+  "follow_up_count": 0,
+  "status": "new",
+  "notes": "Long-time YouTube viewer (5+ years). Company in government contracting. Asking about lenders in the network. CC'd Maurice Spears (mospears@bbelectric-inc.com). Needs follow-up.",
+  "gmail_thread_id": "1971dd74424c395b",
+  "gmail_labels": [
+    "Follow Up"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

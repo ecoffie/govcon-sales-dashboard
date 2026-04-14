@@ -1,0 +1,29 @@
+{
+  "id": "lead-410",
+  "name": "Neil Diola",
+  "email": "contact@maayollc.com",
+  "phone": "+1 727-378-2040",
+  "company": "Maayo LLC",
+  "score": "WARM",
+  "source": "gmail_calendly",
+  "first_contact_date": "2026-03-27T00:00:00.000Z",
+  "last_action": "Discovery call completed. Recommended Federal Contractor Database and Pro Member Group ($99/mo).",
+  "last_action_date": "2026-03-30T11:04:32.000Z",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "Philippines-based. Booked GCG Discovery Call for Mar 30. Call completed. Needs reliable subs who can show up and price accurately. Recommended Federal Contractor Database via Pro Member Group.",
+  "gmail_thread_id": "19d35ebc8e9eefc6",
+  "gmail_labels": [
+    "Calendly"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2026-03-30T10:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {},
+  "type": "lead"
+}

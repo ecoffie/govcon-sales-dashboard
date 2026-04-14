@@ -1,0 +1,30 @@
+{
+  "id": "lead-389",
+  "name": "Juan Galloway",
+  "email": "lavishincnc@gmail.com",
+  "phone": "",
+  "company": "Lavish Inc",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-08T21:55:10.000Z",
+  "last_action": "Replied Yes to follow-up about federal contracting",
+  "last_action_date": "2026-04-08T21:55:10.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Replied 'Yes' to follow-up asking if still interested in exploring federal contracting opportunities. Ready for outreach call.",
+  "gmail_thread_id": "19d6e31bb929499f",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

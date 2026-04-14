@@ -1,0 +1,30 @@
+{
+  "id": "lead-289",
+  "name": "kevin beltran",
+  "email": "beltranrkevin@gmail.com",
+  "phone": "+1 770-378-2545",
+  "company": "0 - $200k",
+  "score": "HOT",
+  "source": "twitter",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-15T16:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-15T16:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "Sign up for govcon giants and pivot from b2b software sales to contracting",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-15T16:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Information Technology"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "lead-400",
+  "name": "Geronimo Moreno",
+  "email": "gmo003@hotmail.com",
+  "phone": "310-800-7902",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-04T00:00:00.000Z",
+  "last_action": "Purchased Recompete Contracts Tracker. Had access issues, resolved with payment proof.",
+  "last_action_date": "2026-04-06T20:54:50.000Z",
+  "follow_up_count": 2,
+  "status": "paid",
+  "notes": "Purchased Recompete Contracts Tracker. Had activation issues (account not found). Sent credit statement showing payment posted. Access issues being resolved.",
+  "gmail_thread_id": "19d443bfeb29a8d6",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "client",
+  "client_tier": "shop_tools",
+  "client_product": "Recompete Contracts Tracker",
+  "client_amount": "Unknown",
+  "client_start_date": "2025-01-01",
+  "client_status": "active"
+}

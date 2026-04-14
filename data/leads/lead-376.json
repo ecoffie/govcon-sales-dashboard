@@ -1,0 +1,32 @@
+{
+  "id": "lead-376",
+  "name": "Drew McKnight",
+  "email": "foosha6@gmail.com",
+  "phone": "469-843-XXXX",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-03T00:00:00.000Z",
+  "last_action": "Rescheduled call. Tuesday at 1pm works.",
+  "last_action_date": "2026-04-10T16:44:27.000Z",
+  "follow_up_count": 2,
+  "status": "booked",
+  "notes": "Federal Contracting Opp. Call thread. Rescheduled multiple times. Confirmed Tuesday at 1pm works. Phone number partially visible in signature.",
+  "gmail_thread_id": "19d541449b79c823",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

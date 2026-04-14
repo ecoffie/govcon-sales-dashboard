@@ -1,0 +1,32 @@
+{
+  "id": "lead-465",
+  "name": "Natalie Ray",
+  "email": "itsmenoodlehead@icloud.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_interested",
+  "first_contact_date": "2026-01-18T10:13:49.000Z",
+  "last_action": "Meeting with Natalie and GovCon Giants accepted Jan 21",
+  "last_action_date": "2026-01-21T19:29:17.000Z",
+  "follow_up_count": 0,
+  "status": "call_completed",
+  "notes": "In GovCon field for 1.5 years. Fully registered and ready to bid. Became active past 2 months. Meeting accepted Jan 21 at 2pm. Uses alternate email itsmeanddixie560@gmail.com for calendar.",
+  "gmail_thread_id": "19bd1e2870dc3723",
+  "gmail_labels": [
+    "Interested"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

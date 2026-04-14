@@ -1,0 +1,30 @@
+{
+  "id": "lead-294",
+  "name": "Richmond Nah",
+  "email": "richmond.nah@gmail.com",
+  "phone": "+1 612-201-7894",
+  "company": "0 - $200k",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-14T13:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-14T13:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "Dont know more about government contracting but interested in the middle man approach and would like to know nore about it",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-14T13:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Not sure what industry I am interested in at this point"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

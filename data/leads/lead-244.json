@@ -1,0 +1,30 @@
+{
+  "id": "lead-244",
+  "name": "Tamika Stewart",
+  "email": "tamikas3@gmail.com",
+  "phone": "+1 215-901-7977",
+  "company": "$250k - $500k",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-27T10:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-27T10:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "Determine if this is a good program for me to invest in to get contracts",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-27T10:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$250k - $500k",
+    "industry": "Consulting"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

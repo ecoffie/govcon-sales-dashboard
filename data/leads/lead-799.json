@@ -1,0 +1,32 @@
+{
+  "id": "lead-799",
+  "name": "Bert Gives Jr",
+  "email": "admin@ggnotary.com",
+  "phone": "",
+  "company": "Gives on the Go Notary and Realty Services LLC",
+  "score": "BASIC",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-03T00:00:00.000Z",
+  "last_action": "Provided company info. Lexington SC. No government contracting experience.",
+  "last_action_date": "2026-04-09T15:25:48.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Gives on the Go Notary and Realty Services LLC, Lexington SC. No experience with government contracting.",
+  "gmail_thread_id": "19d53d0b5031ad37",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

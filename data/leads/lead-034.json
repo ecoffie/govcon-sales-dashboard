@@ -1,0 +1,30 @@
+{
+  "id": "lead-034",
+  "name": "Eric Walker",
+  "email": "ericwalker@cnrrestorations.net",
+  "phone": "+1 678-697-0343",
+  "company": "$250,00 - $999,000",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2025-09-23T12:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2025-12-05T16:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "",
+  "calendly": {
+    "event_type": "GCG Discovery Call",
+    "total_calls": 6,
+    "last_call_date": "2025-12-05T16:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$250,00 - $999,000",
+    "industry": ""
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lead-273",
+  "name": "Kemper Hardy",
+  "email": "kemperwhardy25@gmail.com",
+  "phone": "+1 510-927-8489",
+  "company": "$250k - $500k",
+  "score": "HOT",
+  "source": "facebook",
+  "status": "call_completed",
+  "first_contact_date": "2023-11-17T18:30:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-11-17T18:30:00+00:00",
+  "follow_up_count": 0,
+  "notes": "See what you guys have to offer",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-11-17T18:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$250k - $500k",
+    "industry": "Construction"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}

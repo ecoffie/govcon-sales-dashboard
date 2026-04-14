@@ -1,0 +1,32 @@
+{
+  "id": "lead-407",
+  "name": "Ramon Hodges",
+  "email": "ramonhodges1@gmail.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-03-25T00:00:00.000Z",
+  "last_action": "Available all day Wednesday for Zoom meeting",
+  "last_action_date": "2026-03-30T15:30:41.000Z",
+  "follow_up_count": 1,
+  "status": "booked",
+  "notes": "GovCon Giants Meeting discussed. Grandmother passed away causing delay. Re-engaged and available for meeting. Needs zoom link sent.",
+  "gmail_thread_id": "19d26676547760cc",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

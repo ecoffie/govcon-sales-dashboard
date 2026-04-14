@@ -1,0 +1,32 @@
+{
+  "id": "lead-378",
+  "name": "Betty Sylvester",
+  "email": "sylba28@gmail.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_inbox",
+  "first_contact_date": "2026-04-09T00:00:00.000Z",
+  "last_action": "Available 04/14 between 1-3pm CST",
+  "last_action_date": "2026-04-10T10:34:31.000Z",
+  "follow_up_count": 0,
+  "status": "meeting_interest",
+  "notes": "Replied Yes to federal contracting outreach. Available April 14 between 1-3pm CST (2-4pm EST).",
+  "gmail_thread_id": "19d739e388a7d6e1",
+  "gmail_labels": [
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

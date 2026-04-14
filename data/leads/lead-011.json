@@ -1,0 +1,37 @@
+{
+  "id": "lead-011",
+  "name": "Vegim Sadikoski",
+  "email": "sydix11@zohomail.eu",
+  "phone": "+39 389 931 5829",
+  "company": "$0 - $249,000",
+  "score": "HOT",
+  "source": "gmail_interested",
+  "first_contact_date": "2025-05-27T16:30:00+00:00",
+  "last_action": "Replied Yes to outreach. Already has GovCon EDU account and purchased program.",
+  "last_action_date": "2026-04-08T21:04:48.000Z",
+  "follow_up_count": 1,
+  "status": "paid",
+  "notes": "Based in Italy. Affirm doesn't work there. Interested in alternative payment (Klarna). Already purchased program for 999 EUR + 99 EUR/month. Re-engaged April 2026.",
+  "gmail_thread_id": "1971a314abfdc02f",
+  "gmail_labels": [
+    "Interested",
+    "Inbox"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "Consulting Discovery Call",
+    "total_calls": 1,
+    "last_call_date": "2025-05-27T16:30:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "$0 - $249,000"
+  },
+  "type": "client",
+  "client_tier": "tier1_training",
+  "client_product": "GovCon EDU Program",
+  "client_amount": "999 EUR + 99 EUR/mo",
+  "client_start_date": "2025-05-27",
+  "client_status": "active"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "lead-748",
+  "name": "Jaleesa Jackson",
+  "email": "info@jaxenterprises.com",
+  "phone": "",
+  "company": "JAX Enterprises",
+  "score": "WARM",
+  "source": "gmail_proposal_leads",
+  "first_contact_date": "2025-02-26T08:00:00.000Z",
+  "last_action": "Replied with pricing for Proposal Bootcamp and coaching options",
+  "last_action_date": "2025-02-26T09:59:03.000Z",
+  "follow_up_count": 0,
+  "status": "first_touch_drafted",
+  "notes": "Interested in Proposal Writing & Submission Bootcamp. Sent pricing for Federal Group Coaching program tiers. Needs follow-up.",
+  "gmail_thread_id": "195428eb992f7e77",
+  "gmail_labels": [
+    "Proposal Leads"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

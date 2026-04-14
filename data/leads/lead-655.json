@@ -1,0 +1,32 @@
+{
+  "id": "lead-655",
+  "name": "Georgette Dilworth",
+  "email": "georgette.dilworth@yahoo.com",
+  "phone": "",
+  "company": "",
+  "score": "WARM",
+  "source": "gmail_follow_up",
+  "first_contact_date": "2025-05-30T17:09:59.000Z",
+  "last_action": "Wants to refer people, collaborate. Retired.",
+  "last_action_date": "2025-05-30T17:09:59.000Z",
+  "follow_up_count": 0,
+  "status": "new",
+  "notes": "Retired, wants to refer people to GovCon EDU and collaborate. Potential referral partner.",
+  "gmail_thread_id": "197222c244f9931d",
+  "gmail_labels": [
+    "Follow Up"
+  ],
+  "emails_sent": [],
+  "calls": [],
+  "calendly": {
+    "event_type": "",
+    "total_calls": 0,
+    "last_call_date": "",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "",
+    "industry": ""
+  },
+  "type": "lead"
+}

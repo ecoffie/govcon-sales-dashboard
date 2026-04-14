@@ -1,0 +1,30 @@
+{
+  "id": "lead-187",
+  "name": "Tony Oduro-Darkwa",
+  "email": "aodarkwa@gmail.com",
+  "phone": "+1 208-244-1827",
+  "company": "0 - $200k",
+  "score": "HOT",
+  "source": "youtube",
+  "status": "call_completed",
+  "first_contact_date": "2023-12-08T09:00:00+00:00",
+  "last_action": "call_completed",
+  "last_action_date": "2023-12-08T09:00:00+00:00",
+  "follow_up_count": 0,
+  "notes": "How to win contracts 500K and above with good margin",
+  "calendly": {
+    "event_type": "Small Business Accelerator",
+    "total_calls": 1,
+    "last_call_date": "2023-12-08T09:00:00+00:00",
+    "no_show": false
+  },
+  "company_details": {
+    "revenue": "0 - $200k",
+    "industry": "Mining/Mineral and Geotechnical Engineering"
+  },
+  "gmail_thread_id": "",
+  "gmail_labels": [],
+  "emails_sent": [],
+  "calls": [],
+  "type": "lead"
+}
