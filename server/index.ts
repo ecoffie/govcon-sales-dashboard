@@ -265,19 +265,24 @@ async function fetchAllCharges(since: Date) {
     const allCharges: any[] = []
     let hasMore = true
     let startingAfter: string | undefined
-    // On Vercel, fetch fewer months to stay within timeout
-    const lookbackMonths = isVercelEnv ? 6 : 12
+    // On Vercel, fetch fewer months and cap total pages to stay within timeout
+    const lookbackMonths = isVercelEnv ? 3 : 12
+    const maxPages = isVercelEnv ? 5 : 50 // 500 charges max on Vercel per cold start
+    let pageCount = 0
     const lookbackDate = new Date()
     lookbackDate.setMonth(lookbackDate.getMonth() - lookbackMonths)
 
-    while (hasMore) {
+    while (hasMore && pageCount < maxPages) {
       const params: any = { limit: 100, created: { gte: Math.floor(lookbackDate.getTime() / 1000) } }
       if (startingAfter) params.starting_after = startingAfter
+      console.log(`Stripe: fetching page ${pageCount + 1}...`)
       const batch = await stripe!.charges.list(params)
       allCharges.push(...batch.data.filter((c: any) => c.status === 'succeeded'))
       hasMore = batch.has_more
       if (batch.data.length > 0) startingAfter = batch.data[batch.data.length - 1].id
+      pageCount++
     }
+    if (hasMore) console.log(`Stripe: hit page limit (${maxPages}), returning partial data`)
 
     memCache = { charges: allCharges, fetchedAt: Date.now() }
     saveDiskCache(allCharges)
@@ -733,7 +738,18 @@ app.get('/api/revenue/report', async (_req, res) => {
   }
 })
 
-app.get('/api/health', (_req, res) => res.json({ status: 'ok' }))
+app.get('/api/health', (_req, res) => res.json({ status: 'ok', vercel: isVercelEnv, stripe: !!stripe }))
+
+// Stripe key diagnostic — does a minimal API call to verify the key works
+app.get('/api/stripe-test', async (_req, res) => {
+  if (!stripe) return res.json({ ok: false, reason: 'no_key' })
+  try {
+    const bal = await stripe.balance.retrieve()
+    res.json({ ok: true, currency: bal.available?.[0]?.currency || 'unknown' })
+  } catch (err: any) {
+    res.json({ ok: false, reason: err.type || 'unknown', message: err.message })
+  }
+})
 
 // Export for Vercel serverless
 export default app
