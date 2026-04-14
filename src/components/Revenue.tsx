@@ -157,8 +157,11 @@ export default function Revenue() {
     return (
       <div className="p-8">
         <div className="bg-red-50 border border-red-200 rounded-xl p-6">
-          <h3 className="text-red-800 font-semibold mb-2">Stripe Connection Error</h3>
-          <p className="text-red-600 text-sm">{revenue.error}</p>
+          <h3 className="text-red-800 font-semibold mb-2 flex items-center gap-2"><AlertCircle size={18} /> Stripe Issue</h3>
+          <p className="text-red-600 text-sm mb-3">{revenue.error}</p>
+          <button onClick={() => { setLoading(true); load() }} className="text-sm bg-red-100 hover:bg-red-200 text-red-700 px-3 py-1.5 rounded-lg transition-colors">
+            Retry Connection
+          </button>
         </div>
       </div>
     )

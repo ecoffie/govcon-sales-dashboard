@@ -1,156 +1,59 @@
 {
-  "generated_at": "2026-04-11T04:23:48.579276-04:00",
-  "today": [],
-  "tomorrow": [],
-  "this_week": [
+  "generated_at": "2026-04-14T09:00:00.000000-04:00",
+  "today": [
     {
-      "event_id": "23hskiege4f2rd83n8t6alokcc",
-      "title": "Akeem Murrell: GCG Discovery Call",
-      "start": "2026-04-13T08:00:00-04:00",
-      "end": "2026-04-13T08:15:00-04:00",
-      "location": "Google Meet (instructions in description)",
+      "event_id": "marketing-team-meeting-20260414",
+      "title": "Marketing Team Meeting",
+      "start": "2026-04-14T11:00:00-04:00",
+      "end": "2026-04-14T12:00:00-04:00",
+      "location": "Google Meet https://meet.google.com/aub-nfuu-iga",
       "status": "upcoming",
-      "minutes_until": 3096,
+      "minutes_until": 120,
       "attendees": [
         {
-          "email": "murrellakeem@gmail.com",
-          "name": "Akeem Murrell",
+          "email": "",
+          "name": "Eric Coffie",
           "response": "accepted"
-        }
-      ],
-      "lead_match": {
-        "id": "lead-374",
-        "name": "Akeem Murrell",
-        "company": "",
-        "score": "WARM",
-        "type": "lead",
-        "status": "booked",
-        "phone": "+1 551-229-8966",
-        "notes": "",
-        "problem": "Heard about Government contracting and anxious to get started but don\u2019t know where to start",
-        "industry": "",
-        "revenue": "",
-        "total_calls": 1,
-        "last_call_date": "2026-04-13T08:00:00+00:00",
-        "source": "calendly",
-        "recommended_angle": "First discovery call -- focus on understanding their business, current stage, and goals. Brand new to GovCon -- start with the free 12-day course, then position Pro Member Group ($99/mo) as their next step. Use the '$161B+ goes to small businesses' stat to build excitement. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
-      }
-    },
-    {
-      "event_id": "bjcuhftbmsnlnlnirdqsmqsi4s",
-      "title": "Vanessa Pepino Adraneda: GCG Discovery Call",
-      "start": "2026-04-13T11:00:00-04:00",
-      "end": "2026-04-13T11:15:00-04:00",
-      "location": "Google Meet (instructions in description)",
-      "status": "upcoming",
-      "minutes_until": 3276,
-      "attendees": [
+        },
         {
-          "email": "vanessa@fergus-medical.com",
-          "name": "Vanessa Pepino Adraneda",
+          "email": "",
+          "name": "Annelle",
           "response": "accepted"
-        }
-      ],
-      "lead_match": {
-        "id": "lead-002",
-        "name": "Vanessa Pepino Adraneda",
-        "company": "Fergus Medical",
-        "score": "HOT",
-        "type": "lead",
-        "status": "call_completed",
-        "phone": "+1 708-305-6086",
-        "notes": "Medical Supply company in Phoenix AZ. Did $80M in sales. Goals: Wants to do $100M+. Discovery call booked Apr 4, rescheduled to Apr 13. Provided company details Apr 9.",
-        "problem": "Heard about Government contracting and anxious to get started but don\u2019t know where to start",
-        "industry": "",
-        "revenue": "",
-        "total_calls": 1,
-        "last_call_date": "2026-04-13T11:00:00+00:00",
-        "source": "gmail_calendly",
-        "recommended_angle": "First discovery call -- focus on understanding their business, current stage, and goals. Brand new to GovCon -- start with the free 12-day course, then position Pro Member Group ($99/mo) as their next step. Use the '$161B+ goes to small businesses' stat to build excitement. Medical/healthcare supply space -- highlight DLA, VA, and FEMA as key agencies. Discuss NAICS 423450 opportunities. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
-      }
-    },
-    {
-      "event_id": "f3t9lmoorpa56eg2m1r97pndt8",
-      "title": "Timothy LeFlore: GCG Discovery Call",
-      "start": "2026-04-13T13:00:00-04:00",
-      "end": "2026-04-13T13:15:00-04:00",
-      "location": "Google Meet (instructions in description)",
-      "status": "upcoming",
-      "minutes_until": 3396,
-      "attendees": [
-        {
-          "email": "t.leflore46@gmail.com",
-          "name": "Timothy LeFlore",
-          "response": "accepted"
-        }
-      ],
-      "lead_match": {
-        "id": "lead-001",
-        "name": "Timothy LeFlore",
-        "company": "",
-        "score": "HOT",
-        "type": "lead",
-        "status": "booked",
-        "phone": "+1 909-489-1401",
-        "notes": "",
-        "problem": "Registered in SAM but not winning",
-        "industry": "",
-        "revenue": "",
-        "total_calls": 3,
-        "last_call_date": "2026-04-13T13:00:00+00:00",
-        "source": "calendly",
-        "recommended_angle": "Returning lead (3 previous calls) -- they're engaged, explore what's held them back from committing. Registered but not winning -- likely a compliance/proposal issue. Position the 90-Day Accelerator ($5,997) or Consulting Pack for 1:1 proposal review. Reference the Pro Member who went from 12 losses to $180K win. Recommended tier: Tier 2 Consulting (90-Day Accelerator $5,997 or Consulting Pack)."
-      }
-    },
-    {
-      "event_id": "2q3tq3ghe17eq9j7qja0s1e6q6",
-      "title": "Opportunity Meeting with Tiffanye",
-      "start": "2026-04-13T15:00:00-04:00",
-      "end": "2026-04-13T15:15:00-04:00",
-      "location": "",
-      "status": "upcoming",
-      "minutes_until": 3516,
-      "attendees": [
-        {
-          "email": "tiffanye.paige@sampsonjeffersonandassociates.com",
-          "name": "tiffanye.paige",
-          "response": "needsAction"
         }
       ],
       "lead_match": null
     },
     {
-      "event_id": "70k8naitqfnvbuteob7ch8gbj2",
-      "title": "Follow Up Meeting with Peter Humleker and Ryan: Product Consulting",
-      "start": "2026-04-13T16:00:00-04:00",
-      "end": "2026-04-13T16:30:00-04:00",
-      "location": "",
+      "event_id": "naveed-gcg-discovery-20260414",
+      "title": "Naveed: GCG Discovery Call",
+      "start": "2026-04-14T12:00:00-04:00",
+      "end": "2026-04-14T12:15:00-04:00",
+      "location": "Google Meet https://meet.google.com/wau-ogdf-czj",
       "status": "upcoming",
-      "minutes_until": 3576,
+      "minutes_until": 180,
       "attendees": [
         {
-          "email": "peter@valorgovcon.com",
-          "name": "peter",
-          "response": "needsAction"
+          "email": "naveed12muham@gmail.com",
+          "name": "Naveed",
+          "response": "accepted"
         }
       ],
       "lead_match": {
-        "id": "lead-008",
-        "name": "Peter Humleker",
-        "company": "Valor GovCon",
-        "score": "HOT",
-        "type": "client",
-        "status": "paid",
-        "phone": "",
-        "notes": "GovCon product consulting. Call completed. Follow Up Meeting with Peter and Ryan for Product Consulting scheduled. Active engagement.",
-        "problem": "",
+        "id": null,
+        "name": "Naveed",
+        "company": "",
+        "score": "WARM",
+        "type": "lead",
+        "status": "booked",
+        "phone": "+1 516-423-5151",
+        "notes": "Getting Started, no prior experience in government contracting.",
+        "problem": "Heard about Government contracting and anxious to get started but don\u2019t know where to start",
         "industry": "",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
-        "source": "gmail_inbox",
-        "recommended_angle": "Follow-up meeting -- they've shown serious interest. Move toward closing. Existing paying client -- focus on retention, upsell potential, and ensuring they're getting value. Explore moving to Tier2 Consulting if not already there. Recommended tier: Tier 2 Consulting (90-Day Accelerator $5,997 or Consulting Pack).",
-        "client_tier": "tier2_consulting"
+        "source": "calendly",
+        "recommended_angle": "First discovery call -- focus on understanding their business, current stage, and goals. Brand new to GovCon -- start with the free 12-day course, then position Pro Member Group ($99/mo) as their next step. Use the '$161B+ goes to small businesses' stat to build excitement. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
     },
     {
@@ -158,18 +61,23 @@
       "title": "Opportunity Meeting with Alliance Sourcing Network",
       "start": "2026-04-14T12:30:00-04:00",
       "end": "2026-04-14T12:45:00-04:00",
-      "location": "",
+      "location": "Google Meet https://meet.google.com/mcs-eybm-dst",
       "status": "upcoming",
-      "minutes_until": 4806,
+      "minutes_until": 210,
       "attendees": [
         {
           "email": "sbukhari@asn-corp.com",
-          "name": "sbukhari",
+          "name": "Sara Bukhari",
           "response": "accepted"
         },
         {
           "email": "john.burke@asn-corp.com",
-          "name": "john.burke",
+          "name": "John Burke",
+          "response": "accepted"
+        },
+        {
+          "email": "",
+          "name": "Branden",
           "response": "accepted"
         }
       ],
@@ -181,14 +89,14 @@
         "type": "lead",
         "status": "booked",
         "phone": "",
-        "notes": "Alliance Sourcing Network. Same meeting as John Burke. Original meeting cancelled, rescheduled to Apr 14.",
+        "notes": "IT Staffing company, 18 years private sector experience. Registered on SAM.gov. Seeking guidance on bidding and winning government contracts. Alliance Sourcing Network. Same meeting as John Burke. Original meeting cancelled, rescheduled to Apr 14.",
         "problem": "",
-        "industry": "",
+        "industry": "IT Staffing",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
         "source": "gmail_inbox",
-        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Already SAM registered -- past the first hurdle. Focus on pipeline building and proposal strategy. 18 years private sector IT staffing experience is a strong differentiator for federal IT staffing contracts. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       },
       "additional_lead_matches": [
         {
@@ -204,65 +112,97 @@
       "title": "Opportunity Call with Drew McKnight",
       "start": "2026-04-14T13:00:00-04:00",
       "end": "2026-04-14T13:15:00-04:00",
-      "location": "",
+      "location": "Phone call",
       "status": "upcoming",
-      "minutes_until": 4836,
+      "minutes_until": 240,
       "attendees": [
         {
           "email": "foosha6@gmail.com",
-          "name": "foosha6",
+          "name": "Drew McKnight",
           "response": "needsAction"
+        },
+        {
+          "email": "",
+          "name": "Branden",
+          "response": "accepted"
         }
       ],
       "lead_match": {
         "id": "lead-376",
         "name": "Drew McKnight",
-        "company": "",
+        "company": "MCK Merchandising LLC",
         "score": "WARM",
         "type": "lead",
         "status": "booked",
-        "phone": "469-843-XXXX",
-        "notes": "Federal Contracting Opp. Call thread. Rescheduled multiple times. Confirmed Tuesday at 1pm works. Phone number partially visible in signature.",
+        "phone": "469-843-2226",
+        "notes": "Company: MCK Merchandising LLC. Disabled veteran. 5 years logistics/transportation experience. Registered on SAM.gov. One-person business. Needs help with NAICS codes, bidding, and proposal writing. Rescheduled multiple times. Confirmed Tuesday at 1pm.",
         "problem": "",
-        "industry": "",
+        "industry": "Logistics/Transportation",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
         "source": "gmail_inbox",
-        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Disabled veteran status -- explore SDVOSB certification for VA set-aside contracts. Already SAM registered -- past the first hurdle. Focus on pipeline building and proposal strategy. Logistics/transportation -- highlight DoD and GSA opportunities. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
+    },
+    {
+      "event_id": "sales-team-meeting-20260414",
+      "title": "Sales Team Meeting",
+      "start": "2026-04-14T13:30:00-04:00",
+      "end": "2026-04-14T14:00:00-04:00",
+      "location": "Google Meet https://meet.google.com/vie-govs-jbp",
+      "status": "upcoming",
+      "minutes_until": 270,
+      "attendees": [
+        {
+          "email": "",
+          "name": "Annelle",
+          "response": "accepted"
+        },
+        {
+          "email": "",
+          "name": "Sikandar",
+          "response": "accepted"
+        }
+      ],
+      "lead_match": null
     },
     {
       "event_id": "3a6ro8h0de091o61uors9a7mcb",
       "title": "Opportunity Call with Tim Dieschbourg",
       "start": "2026-04-14T14:30:00-04:00",
       "end": "2026-04-14T14:45:00-04:00",
-      "location": "",
+      "location": "Phone call",
       "status": "upcoming",
-      "minutes_until": 4926,
+      "minutes_until": 330,
       "attendees": [
         {
           "email": "tim@taskcg.com",
-          "name": "tim",
+          "name": "Tim Dieschbourg",
           "response": "needsAction"
+        },
+        {
+          "email": "",
+          "name": "Branden",
+          "response": "accepted"
         }
       ],
       "lead_match": {
         "id": "lead-397",
         "name": "Tim Dieschbourg",
-        "company": "Task Construction Group",
+        "company": "Task Construction Group LLC",
         "score": "WARM",
         "type": "lead",
         "status": "booked",
-        "phone": "",
-        "notes": "Task Construction Group. Meeting cancelled, rescheduled to Tuesday at 12pm PT.",
+        "phone": "708-650-8786",
+        "notes": "Task Construction Group LLC, San Diego CA. Construction industry. Pursuing SDVOSB certification. 20+ years military service, 10+ years construction experience. Attended GCG seminar. Meeting cancelled, rescheduled to Tuesday at 12pm PT.",
         "problem": "",
-        "industry": "",
+        "industry": "Construction",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
         "source": "gmail_inbox",
-        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Construction sector -- Eric's personal background ($20M+ in construction contracts) is a strong rapport builder. Discuss Army Corps, Air Force, Navy opportunities. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Construction sector -- Eric's personal background ($20M+ in construction contracts) is a strong rapport builder. Discuss Army Corps, Air Force, Navy opportunities. SDVOSB pursuit -- guide through VA verification process, highlight sole-source threshold up to $4.5M. 20+ years military is a powerful differentiator. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
     },
     {
@@ -270,13 +210,23 @@
       "title": "Meeting with Julius and GovCon Giants",
       "start": "2026-04-14T15:00:00-04:00",
       "end": "2026-04-14T15:30:00-04:00",
-      "location": "",
+      "location": "Google Meet https://meet.google.com/kuu-inrq-dop",
       "status": "upcoming",
-      "minutes_until": 4956,
+      "minutes_until": 360,
       "attendees": [
         {
+          "email": "",
+          "name": "Eric Coffie",
+          "response": "accepted"
+        },
+        {
           "email": "julius@optimalperformancesystem.com",
-          "name": "julius",
+          "name": "Julius Thomas",
+          "response": "accepted"
+        },
+        {
+          "email": "",
+          "name": "Branden",
           "response": "accepted"
         }
       ],
@@ -288,24 +238,26 @@
         "type": "lead",
         "status": "booked",
         "phone": "",
-        "notes": "Director of Operations at Alexandra Fower. Meeting scheduled Apr 14 3pm EDT. Branden escalated to include Eric and Julian in meeting.",
+        "notes": "Director of Operations at Alexandra Fower. Meeting scheduled Apr 14 3pm EDT. Branden escalated to include Eric and Julian in meeting. Discussing collaboration in government contracting.",
         "problem": "",
         "industry": "",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
         "source": "gmail_inbox",
-        "recommended_angle": "Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "HOT lead -- Director of Operations at Alexandra Fower discussing collaboration in government contracting. Eric and Branden both on call. Explore partnership/collaboration opportunities. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
-    },
+    }
+  ],
+  "tomorrow": [
     {
       "event_id": "qjr299r859pn51tsm9adortpgo",
       "title": "Falilat Talabi: GCG Discovery Call",
       "start": "2026-04-15T08:00:00-04:00",
       "end": "2026-04-15T08:15:00-04:00",
-      "location": "Google Meet (instructions in description)",
+      "location": "Google Meet https://meet.google.com/wtj-zqkp-wji",
       "status": "upcoming",
-      "minutes_until": 5976,
+      "minutes_until": 1380,
       "attendees": [
         {
           "email": "info@globallinksmarketing.com",
@@ -323,7 +275,7 @@
         "phone": "480-334-3562",
         "notes": "CEO, Registered Nurse 31 years. Medical Equipment and Supplies (NAICS 423450). SAM registered with UEI and CAGE code. Wants consulting guidance to win federal contracts. Interested in supplier connections (McKesson, Henry Schein, etc). Phoenix AZ. Subscribed to Pro Member Group. Meeting scheduled Apr 15.",
         "problem": "",
-        "industry": "",
+        "industry": "Medical Equipment and Supplies",
         "revenue": "",
         "total_calls": 2,
         "last_call_date": "2026-04-07T10:00:00+00:00",
@@ -337,18 +289,23 @@
       "title": "Client Call with Ladale",
       "start": "2026-04-15T11:00:00-04:00",
       "end": "2026-04-15T11:30:00-04:00",
-      "location": "",
+      "location": "Google Meet https://meet.google.com/aob-krgi-fns",
       "status": "upcoming",
-      "minutes_until": 6156,
+      "minutes_until": 1560,
       "attendees": [
         {
+          "email": "",
+          "name": "Eric Coffie",
+          "response": "accepted"
+        },
+        {
           "email": "ladalecrtr1@gmail.com",
-          "name": "ladalecrtr1",
+          "name": "LaDale Carter",
           "response": "needsAction"
         },
         {
-          "email": "bwssinc@gmail.com",
-          "name": "bwssinc",
+          "email": "",
+          "name": "Branden",
           "response": "accepted"
         }
       ],
@@ -367,30 +324,27 @@
         "total_calls": 1,
         "last_call_date": "2025-09-13T11:30:00+00:00",
         "source": "gmail_to_respond",
-        "recommended_angle": "Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
-      },
-      "additional_lead_matches": [
-        {
-          "id": "lead-450",
-          "name": "Bridget Bonita",
-          "company": "BWS Inc",
-          "email": "bwssinc@gmail.com"
-        }
-      ]
+        "recommended_angle": "Recurring client call. Active client with capability statement work in progress. Focus on retention, upsell potential, and ensuring they're getting value. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+      }
     },
     {
       "event_id": "4ibdh9kdcs5nc24bemuc1ic62r",
       "title": "Opportunity Call with Lakeesha",
       "start": "2026-04-15T15:00:00-04:00",
       "end": "2026-04-15T15:15:00-04:00",
-      "location": "",
+      "location": "Phone call",
       "status": "upcoming",
-      "minutes_until": 6396,
+      "minutes_until": 1800,
       "attendees": [
         {
           "email": "lakeeshafane@gmail.com",
-          "name": "lakeeshafane",
+          "name": "Lakeesha Fane",
           "response": "needsAction"
+        },
+        {
+          "email": "",
+          "name": "Branden",
+          "response": "accepted"
         }
       ],
       "lead_match": {
@@ -401,55 +355,57 @@
         "type": "lead",
         "status": "call_completed",
         "phone": "559-350-8007",
-        "notes": "Company: Broadway Spaces LLC. Field: Rental Center/Property. Interested and provided details.",
+        "notes": "Company: Broadway Spaces LLC. California. Rental Center/Property management. Little to no government contracting experience. Interested and provided details.",
         "problem": "",
-        "industry": "",
+        "industry": "Rental/Property Management",
         "revenue": "",
         "total_calls": 2,
         "last_call_date": "2025-03-21T15:30:00+00:00",
         "source": "gmail_inbox",
-        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Little to no experience -- start with the free 12-day course, then position Pro Member Group ($99/mo) as their next step. Real estate/property management -- explore GSA leasing opportunities and facility management contracts. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
     },
     {
       "event_id": "0oal0t2rueh9la13tcqv3hm96v_20260415T200000Z",
-      "title": "Whitty-CAP Global Coaching Session ",
+      "title": "Whitty-CAP Global Coaching Session",
       "start": "2026-04-15T16:00:00-04:00",
       "end": "2026-04-15T16:30:00-04:00",
-      "location": "",
+      "location": "Google Meet https://meet.google.com/jcw-htai-mrk",
       "status": "upcoming",
-      "minutes_until": 6456,
+      "minutes_until": 1860,
       "attendees": [
         {
+          "email": "",
+          "name": "Eric Coffie",
+          "response": "accepted"
+        },
+        {
           "email": "candice@capglobalworks.com",
-          "name": "candice",
+          "name": "Candice",
           "response": "needsAction"
         },
         {
           "email": "charlie@whittycapglobal.com",
-          "name": "charlie",
+          "name": "Charlie",
           "response": "accepted"
-        },
-        {
-          "email": "candice@whittycapglobal.com",
-          "name": "candice",
-          "response": "needsAction"
         }
       ],
       "lead_match": null
-    },
+    }
+  ],
+  "this_week": [
     {
       "event_id": "3njtl0jlhkoma5ut5l16sc8bn5",
-      "title": "Opportunity Call with Vanessa ",
+      "title": "Opportunity Call with Vanessa",
       "start": "2026-04-16T09:00:00-04:00",
       "end": "2026-04-16T09:15:00-04:00",
-      "location": "",
+      "location": "Phone call",
       "status": "upcoming",
-      "minutes_until": 7476,
+      "minutes_until": 2880,
       "attendees": [
         {
           "email": "vanessa@fergus-medical.com",
-          "name": "vanessa",
+          "name": "Vanessa Pepino Adraneda",
           "response": "needsAction"
         }
       ],
@@ -461,28 +417,33 @@
         "type": "lead",
         "status": "call_completed",
         "phone": "+1 708-305-6086",
-        "notes": "Medical Supply company in Phoenix AZ. Did $80M in sales. Goals: Wants to do $100M+. Discovery call booked Apr 4, rescheduled to Apr 13. Provided company details Apr 9.",
+        "notes": "Medical Supply company in Phoenix AZ. Did $80M in commercial sales. Goals: Wants to do $100M+. Interested in DoD/IHS. Discovery call completed Apr 13. Follow-up opportunity call scheduled. Phone: 888-488-8654.",
         "problem": "",
-        "industry": "",
-        "revenue": "",
+        "industry": "Medical Supply",
+        "revenue": "$80M",
         "total_calls": 1,
         "last_call_date": "2026-04-13T11:00:00+00:00",
         "source": "gmail_calendly",
-        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Medical/healthcare supply space -- highlight DLA, VA, and FEMA as key agencies. Discuss NAICS 423450 opportunities. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Medical/healthcare supply space -- highlight DLA, VA, and FEMA as key agencies. Discuss NAICS 423450 opportunities. $80M in commercial sales is massive -- position for large federal contracts. Interested in DoD and IHS specifically. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
     },
     {
       "event_id": "0q572pu4gpmp5s4bh9e902443r",
-      "title": "Meetin with Sean and Eric Coffie",
+      "title": "Meeting with Sean and Eric Coffie",
       "start": "2026-04-16T12:00:00-04:00",
       "end": "2026-04-16T12:30:00-04:00",
-      "location": "",
+      "location": "Google Meet",
       "status": "upcoming",
-      "minutes_until": 7656,
+      "minutes_until": 3060,
       "attendees": [
         {
           "email": "sean@nationrestoration.org",
-          "name": "sean",
+          "name": "Sean Johnson",
+          "response": "accepted"
+        },
+        {
+          "email": "",
+          "name": "Eric Coffie",
           "response": "accepted"
         }
       ],
@@ -494,9 +455,9 @@
         "type": "client",
         "status": "paid",
         "phone": "408-242-9041",
-        "notes": "SDVOSB, SAM Registered, OSHA 30 Certified. UEI: FYS2PJELH698, CAGE: 0QWW6. Licensed contractor CA and FL. Also reached out Mar 3 about GovCon Fund - providing/referring funding for contractors. Multi-dimensional relationship.",
+        "notes": "SDVOSB, SAM Registered, OSHA 30 Certified. UEI: FYS2PJELH698, CAGE: 0QWW6. Licensed contractor CA and FL. Also reached out Mar 3 about GovCon Fund - providing/referring funding for contractors. Multi-dimensional relationship. Construction.",
         "problem": "",
-        "industry": "",
+        "industry": "Construction",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
@@ -510,26 +471,47 @@
       "title": "Meeting with Imran and Eric Coffie",
       "start": "2026-04-16T13:00:00-04:00",
       "end": "2026-04-16T13:30:00-04:00",
-      "location": "",
+      "location": "Google Meet",
       "status": "upcoming",
-      "minutes_until": 7716,
+      "minutes_until": 3120,
       "attendees": [
         {
           "email": "imran@agtbi.com",
-          "name": "imran",
+          "name": "Imran",
+          "response": "accepted"
+        },
+        {
+          "email": "",
+          "name": "Eric Coffie",
           "response": "accepted"
         }
       ],
-      "lead_match": null
+      "lead_match": {
+        "id": null,
+        "name": "Imran",
+        "company": "",
+        "score": "WARM",
+        "type": "lead",
+        "status": "booked",
+        "phone": "",
+        "notes": "8(a) business, 15 years experience in IT/cybersecurity. Interested in partnering with Eric.",
+        "problem": "",
+        "industry": "IT/Cybersecurity",
+        "revenue": "",
+        "total_calls": 0,
+        "last_call_date": "",
+        "source": "gmail_inbox",
+        "recommended_angle": "8(a) certified business with 15 years IT/cybersecurity experience -- strong foundation for federal contracting. Explore partnership/JV opportunities with Eric. IT/cybersecurity is a high-demand federal sector. Recommended tier: Tier 2 Consulting (90-Day Accelerator $5,997 or Consulting Pack)."
+      }
     },
     {
       "event_id": "30msavbpsg4d7unp8dcrrhu3nk",
       "title": "Jonathan Wagner: GCG Discovery Call",
       "start": "2026-04-16T14:30:00-04:00",
       "end": "2026-04-16T14:45:00-04:00",
-      "location": "Google Meet (instructions in description)",
+      "location": "Google Meet",
       "status": "upcoming",
-      "minutes_until": 7806,
+      "minutes_until": 3210,
       "attendees": [
         {
           "email": "jon@wagnerprogramservices.com",
@@ -545,45 +527,61 @@
         "type": "lead",
         "status": "call_completed",
         "phone": "+1 804-399-6604",
-        "notes": "",
+        "notes": "Registered in SAM but not winning contracts. Looking for help finding contract opportunities.",
         "problem": "Registered in SAM but not winning",
         "industry": "",
         "revenue": "",
         "total_calls": 1,
         "last_call_date": "2026-02-28T10:30:00+00:00",
         "source": "calendly",
-        "recommended_angle": "First discovery call -- focus on understanding their business, current stage, and goals. Registered but not winning -- likely a compliance/proposal issue. Position the 90-Day Accelerator ($5,997) or Consulting Pack for 1:1 proposal review. Reference the Pro Member who went from 12 losses to $180K win. Recommended tier: Tier 2 Consulting (90-Day Accelerator $5,997 or Consulting Pack)."
+        "recommended_angle": "Returning lead (previous call Feb 28) -- they're engaged, explore what's held them back from committing. Registered but not winning -- likely a compliance/proposal issue. Position the 90-Day Accelerator ($5,997) or Consulting Pack for 1:1 proposal review. Reference the Pro Member who went from 12 losses to $180K win. Recommended tier: Tier 2 Consulting (90-Day Accelerator $5,997 or Consulting Pack)."
       }
     },
     {
       "event_id": "4trq1b601vlbm9fqeg38kq4t8s",
-      "title": "Tax Credit Discovery Call with James Haynes ",
+      "title": "Tax Credit Discovery Call with James Haynes",
       "start": "2026-04-17T10:00:00-04:00",
       "end": "2026-04-17T10:30:00-04:00",
-      "location": "",
+      "location": "Phone call",
       "status": "upcoming",
-      "minutes_until": 8976,
+      "minutes_until": 4380,
       "attendees": [
         {
           "email": "james@haynesmarketing.net",
-          "name": "james",
+          "name": "James Haynes",
           "response": "needsAction"
         }
       ],
-      "lead_match": null
+      "lead_match": {
+        "id": null,
+        "name": "James Haynes",
+        "company": "Haynes Marketing Associates LLC",
+        "score": "WARM",
+        "type": "lead",
+        "status": "booked",
+        "phone": "2108037625",
+        "notes": "Tax credit discovery call. Haynes Marketing Associates LLC.",
+        "problem": "",
+        "industry": "Marketing",
+        "revenue": "",
+        "total_calls": 0,
+        "last_call_date": "",
+        "source": "",
+        "recommended_angle": "Tax credit discovery call -- focus on understanding their specific tax credit needs and how GCG services can help."
+      }
     },
     {
       "event_id": "2ts00711q4631ifg6hc49o4053",
-      "title": "Opportunity Call with Bert Gives ",
+      "title": "Opportunity Call with Bert Gives",
       "start": "2026-04-17T12:30:00-04:00",
       "end": "2026-04-17T12:45:00-04:00",
-      "location": "",
+      "location": "Phone call",
       "status": "upcoming",
-      "minutes_until": 9126,
+      "minutes_until": 4530,
       "attendees": [
         {
           "email": "admin@ggnotary.com",
-          "name": "admin",
+          "name": "Bert Gives Jr",
           "response": "needsAction"
         }
       ],
@@ -594,15 +592,15 @@
         "score": "BASIC",
         "type": "lead",
         "status": "meeting_interest",
-        "phone": "",
-        "notes": "Gives on the Go Notary and Realty Services LLC, Lexington SC. No experience with government contracting.",
+        "phone": "803-846-2578",
+        "notes": "Gives on the Go Notary and Realty Services LLC, Lexington SC. No prior federal experience. No experience with government contracting.",
         "problem": "",
-        "industry": "",
+        "industry": "Notary/Real Estate",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
         "source": "gmail_inbox",
-        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Notary/real estate services -- explore document management and administrative support NAICS codes for federal opportunities. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Notary/real estate services -- explore document management and administrative support NAICS codes for federal opportunities. No prior federal experience -- start with the free 12-day course, then position Pro Member Group ($99/mo). Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
     },
     {
@@ -610,13 +608,13 @@
       "title": "Angie Schyma: Follow Up Meeting",
       "start": "2026-04-17T13:00:00-04:00",
       "end": "2026-04-17T13:30:00-04:00",
-      "location": "Google Meet (instructions in description)",
+      "location": "Google Meet",
       "status": "upcoming",
-      "minutes_until": 9156,
+      "minutes_until": 4560,
       "attendees": [
         {
           "email": "aschyma@mdstaffing.services",
-          "name": "aschyma",
+          "name": "Angie Schyma",
           "response": "needsAction"
         }
       ],
@@ -628,9 +626,9 @@
         "type": "client",
         "status": "paid",
         "phone": "+1 701-401-4414",
-        "notes": "Federal staffing company. Multiple discovery calls (Mar 13, 14, 18). Federal Staffing Proposal sent. Seth and Angie reviewing. Child was sick causing delay. Re-engaged Apr 8. Confirmed meeting Apr 17 at 1pm.",
+        "notes": "Federal staffing company. Multiple discovery calls (Mar 13, 14, 18). Federal Staffing Proposal sent. Seth and Angie reviewing. Child was sick causing delay. Re-engaged Apr 8. Confirmed meeting Apr 17 at 1pm. COO interested in coaching/strategy.",
         "problem": "Registered in SAM but not winning",
-        "industry": "",
+        "industry": "Federal Staffing",
         "revenue": "",
         "total_calls": 2,
         "last_call_date": "2026-03-18T14:30:00+00:00",
@@ -644,18 +642,18 @@
       "title": "Opportunity Meeting with Koeb&Sons Mechanic",
       "start": "2026-04-17T14:00:00-04:00",
       "end": "2026-04-17T14:15:00-04:00",
-      "location": "",
+      "location": "Video call",
       "status": "upcoming",
-      "minutes_until": 9216,
+      "minutes_until": 4620,
       "attendees": [
         {
           "email": "evetaalak@outlook.com",
-          "name": "evetaalak",
+          "name": "Eve Taalak",
           "response": "needsAction"
         },
         {
           "email": "koebandsons@outlook.com",
-          "name": "koebandsons",
+          "name": "Koeb & Sons",
           "response": "needsAction"
         }
       ],
@@ -667,14 +665,14 @@
         "type": "lead",
         "status": "meeting_interest",
         "phone": "701-490-2969",
-        "notes": "Enrolled on Cheyenne River Sioux Tribe - dual enrollment. Sent CIB & Copy of ID. Native American owned business potential.",
+        "notes": "Enrolled on Cheyenne River Sioux Tribe - dual enrollment. Sent CIB & Copy of ID. Native American owned business potential. North Dakota, agricultural equipment repair. Shareholder exploring partnership.",
         "problem": "",
-        "industry": "",
+        "industry": "Agricultural Equipment Repair",
         "revenue": "",
         "total_calls": 0,
         "last_call_date": "",
         "source": "gmail_inbox",
-        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Native American-owned -- significant set-aside advantages through SBA 8(a), tribal preference programs. Share Tribal Contractor List resource. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
+        "recommended_angle": "Opportunity call -- they have a specific need. Focus on matching their situation to the right service tier. Native American-owned -- significant set-aside advantages through SBA 8(a), tribal preference programs. Share Tribal Contractor List resource. Agricultural equipment repair -- explore USDA and DoD agricultural/maintenance NAICS codes. Recommended tier: Tier 1 Training (Pro Member $99/mo or $997 lifetime)."
       }
     }
   ]

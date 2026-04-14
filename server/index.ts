@@ -214,13 +214,18 @@ app.get('/api/calls', (_req, res) => {
 // --- Stripe Revenue API ---
 const config = readJSON('config.json')
 const stripeKey = process.env.STRIPE_API_KEY || config?.stripe?.api_key
-const stripe = stripeKey ? new Stripe(stripeKey, { telemetry: false }) : null
+const stripe = stripeKey ? new Stripe(stripeKey, {
+  telemetry: false,
+  timeout: isVercelEnv ? 25000 : 80000, // 25s on Vercel (fits in 60s function), 80s local
+  maxNetworkRetries: isVercelEnv ? 1 : 2, // Fewer retries on Vercel to stay within timeout
+}) : null
 
 // Stripe data cache — disk-backed, refreshes every 30 minutes
 const CACHE_FILE = path.join(DATA_DIR, 'stripe-cache.json')
 const CACHE_TTL = 30 * 60 * 1000
 
 function loadDiskCache(): { charges: any[]; fetchedAt: number } | null {
+  if (isVercelEnv) return null // Vercel filesystem is read-only
   try {
     const raw = fs.readFileSync(CACHE_FILE, 'utf-8')
     const data = JSON.parse(raw)
@@ -236,6 +241,7 @@ function saveDiskCache(charges: any[]) {
 }
 
 let memCache: { charges: any[]; fetchedAt: number } | null = null
+let fetchInProgress: Promise<any[]> | null = null // Prevent concurrent fetches
 
 async function fetchAllCharges(since: Date) {
   if (!stripe) return []
@@ -247,38 +253,58 @@ async function fetchAllCharges(since: Date) {
     return memCache.charges.filter(c => c.created >= cutoff)
   }
 
-  console.log('Stripe: fetching charges from API...')
-  const allCharges: any[] = []
-  let hasMore = true
-  let startingAfter: string | undefined
-  const twelveMonthsAgo = new Date()
-  twelveMonthsAgo.setMonth(twelveMonthsAgo.getMonth() - 12)
-
-  while (hasMore) {
-    const params: any = { limit: 100, created: { gte: Math.floor(twelveMonthsAgo.getTime() / 1000) } }
-    if (startingAfter) params.starting_after = startingAfter
-    const batch = await stripe.charges.list(params)
-    allCharges.push(...batch.data.filter((c: any) => c.status === 'succeeded'))
-    hasMore = batch.has_more
-    if (batch.data.length > 0) startingAfter = batch.data[batch.data.length - 1].id
+  // Prevent concurrent fetches (race between warmup and request on Vercel)
+  if (fetchInProgress) {
+    const result = await fetchInProgress
+    const cutoff = Math.floor(since.getTime() / 1000)
+    return result.filter(c => c.created >= cutoff)
   }
 
-  memCache = { charges: allCharges, fetchedAt: Date.now() }
-  saveDiskCache(allCharges)
-  console.log(`Stripe: cached ${allCharges.length} charges to disk`)
+  const doFetch = async () => {
+    console.log('Stripe: fetching charges from API...')
+    const allCharges: any[] = []
+    let hasMore = true
+    let startingAfter: string | undefined
+    // On Vercel, fetch fewer months to stay within timeout
+    const lookbackMonths = isVercelEnv ? 6 : 12
+    const lookbackDate = new Date()
+    lookbackDate.setMonth(lookbackDate.getMonth() - lookbackMonths)
 
-  const cutoff = Math.floor(since.getTime() / 1000)
-  return allCharges.filter(c => c.created >= cutoff)
+    while (hasMore) {
+      const params: any = { limit: 100, created: { gte: Math.floor(lookbackDate.getTime() / 1000) } }
+      if (startingAfter) params.starting_after = startingAfter
+      const batch = await stripe!.charges.list(params)
+      allCharges.push(...batch.data.filter((c: any) => c.status === 'succeeded'))
+      hasMore = batch.has_more
+      if (batch.data.length > 0) startingAfter = batch.data[batch.data.length - 1].id
+    }
+
+    memCache = { charges: allCharges, fetchedAt: Date.now() }
+    saveDiskCache(allCharges)
+    console.log(`Stripe: cached ${allCharges.length} charges`)
+    return allCharges
+  }
+
+  fetchInProgress = doFetch()
+  try {
+    const allCharges = await fetchInProgress
+    const cutoff = Math.floor(since.getTime() / 1000)
+    return allCharges.filter(c => c.created >= cutoff)
+  } finally {
+    fetchInProgress = null
+  }
 }
 
-// Pre-warm the cache on startup (only if no fresh disk cache)
-if (stripe && !loadDiskCache()) {
-  const warmup = new Date()
-  warmup.setMonth(warmup.getMonth() - 12)
-  fetchAllCharges(warmup).catch(() => {})
-} else if (stripe) {
-  memCache = loadDiskCache()
-  console.log(`Stripe: loaded ${memCache?.charges?.length || 0} charges from disk cache`)
+// Pre-warm the cache on startup — skip on Vercel (cold start budget is precious)
+if (!isVercelEnv) {
+  if (stripe && !loadDiskCache()) {
+    const warmup = new Date()
+    warmup.setMonth(warmup.getMonth() - 12)
+    fetchAllCharges(warmup).catch(() => {})
+  } else if (stripe) {
+    memCache = loadDiskCache()
+    console.log(`Stripe: loaded ${memCache?.charges?.length || 0} charges from disk cache`)
+  }
 }
 
 // Helper: cross-reference Stripe customer with master-sheet
@@ -386,8 +412,13 @@ app.get('/api/revenue', async (_req, res) => {
       monthOverMonth: mom,
     })
   } catch (err: any) {
-    console.error('Stripe error:', err.message)
-    res.status(500).json({ enabled: true, error: err.message })
+    console.error('Stripe error:', err.message, err.type || '', err.statusCode || '')
+    const userMessage = err.type === 'StripeConnectionError'
+      ? 'Stripe connection timed out. Try refreshing in a moment.'
+      : err.type === 'StripePermissionError'
+      ? 'Stripe API key lacks required permissions. Check key settings in Stripe Dashboard.'
+      : err.message
+    res.status(500).json({ enabled: true, error: userMessage })
   }
 })
 
@@ -485,8 +516,13 @@ app.get('/api/subscriptions', async (_req, res) => {
       planGroups: Object.entries(planGroups).sort(([a], [b]) => a.localeCompare(b)).map(([, v]) => v),
     })
   } catch (err: any) {
-    console.error('Stripe subs error:', err.message)
-    res.status(500).json({ enabled: true, error: err.message })
+    console.error('Stripe subs error:', err.message, err.type || '', err.statusCode || '')
+    const userMessage = err.type === 'StripeConnectionError'
+      ? 'Stripe connection timed out. Try refreshing in a moment.'
+      : err.type === 'StripePermissionError'
+      ? 'Stripe API key lacks required permissions. Check key settings in Stripe Dashboard.'
+      : err.message
+    res.status(500).json({ enabled: true, error: userMessage })
   }
 })
 
